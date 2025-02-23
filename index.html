@@ -425,5 +425,29 @@
             });
         });
     </script>
+    <script>
+    // Alphabetical sort on page load
+    function sortTerms() {
+        const grid = document.getElementById('dictionary');
+        const terms = Array.from(grid.getElementsByClassName('term-card'));
+        
+        terms.sort((a, b) => {
+            const aText = a.querySelector('.term').textContent.toLowerCase();
+            const bText = b.querySelector('.term').textContent.toLowerCase();
+            return aText.localeCompare(bText);
+        });
+        
+        // Clear and re-append sorted terms
+        grid.innerHTML = '';
+        terms.forEach(term => grid.appendChild(term));
+    }
+
+    // Initial sort + sort after any search
+    document.addEventListener('DOMContentLoaded', sortTerms);
+    document.getElementById('searchBox').addEventListener('input', function() {
+        // Re-sort after filtering
+        sortTerms();
+    });
+    </script>
 </body>
 </html>

@@ -11,6 +11,41 @@
             --light: #ecf0f1;
         }
 
+                .creator-note {
+            position: absolute;
+            top: 1rem;
+            right: 2rem;
+            color: rgba(255,255,255,0.9);
+            font-size: 0.9rem;
+            font-weight: 300;
+        }
+        
+        .creator-note a {
+            color: var(--light);
+            text-decoration: none;
+            transition: opacity 0.3s ease;
+        }
+        
+        .creator-note a:hover {
+            opacity: 0.8;
+            text-decoration: underline;
+        }
+        
+        /* Add position: relative to the header */
+        header {
+            position: relative;
+            /* existing styles remain */
+        }
+        
+        /* Optional: Mobile adjustment */
+        @media (max-width: 768px) {
+            .creator-note {
+                right: 1rem;
+                font-size: 0.8rem;
+                top: 0.5rem;
+            }
+        }
+
         body {
             font-family: 'Segoe UI', system-ui, sans-serif;
             line-height: 1.6;
@@ -99,6 +134,9 @@
         <input type="text" id="searchBox" placeholder="Search construction terms...">
         <script data-goatcounter="https://191186.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+        <div class="creator-note">
+    Created by <a href="https://www.linkedin.com/in/bengoulding" target="_blank" rel="noopener">Ben</a>
+</div>
     </header>
 
     <div class="container">

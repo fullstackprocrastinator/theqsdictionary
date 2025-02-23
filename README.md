@@ -1,0 +1,2 @@
+# theqsdictionary
+The QS Dictnary

@@ -1,2 +1,2 @@
 # theqsdictionary
-The QS Dictnary
+The QS Dictionary

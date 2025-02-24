@@ -96,12 +96,6 @@
             padding-right: 1rem;
         }
 
-            @media (max-width: 768px) {
-                .dictionary-grid {
-                    padding-left: 0.5rem;
-                    padding-right: 0.5rem;
-                }
-
         .term-card {
             background: white;
             border-radius: 10px;

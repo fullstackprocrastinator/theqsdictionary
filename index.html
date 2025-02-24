@@ -57,6 +57,26 @@
                 setupSearch();
             })
             .catch(error => console.error('Error loading terms:', error));
-    </script>    
+    </script>
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const mediaQuery = window.matchMedia('(max-width: 767px)');
+        const searchBox = document.getElementById('searchBox');
+
+        function updatePlaceholder() {
+            if (mediaQuery.matches) {
+                searchBox.placeholder = 'Search terms...';
+            } else {
+                searchBox.placeholder = 'Search Quantity Surveying & Construction terms...';
+            }
+        }
+
+        // Set initial placeholder
+        updatePlaceholder();
+
+        // Update placeholder when screen size changes
+        mediaQuery.addEventListener('change', updatePlaceholder);
+    });
+    </script>
 </body>
 </html>

@@ -1,0 +1,129 @@
+:root {
+            --primary: #2c3e50;
+            --secondary: #3498db;
+            --light: #ecf0f1;
+        }
+
+                .creator-note {
+            position: absolute;
+            top: 1rem;
+            right: 2rem;
+            color: rgba(255,255,255,0.9);
+            font-size: 0.9rem;
+            font-weight: 300;
+        }
+        
+        .creator-note a {
+            color: var(--light);
+            text-decoration: none;
+            transition: opacity 0.3s ease;
+        }
+        
+        .creator-note a:hover {
+            opacity: 0.8;
+            text-decoration: underline;
+        }
+
+                .last-updated {
+            text-align: center;
+            color: rgba(255,255,255,0.9);
+            font-size: 0.9rem;
+            font-weight: 300;
+            margin-top: 1rem;
+        }
+        
+        /* Add position: relative to the header */
+        header {
+            position: relative;
+            /* existing styles remain */
+        }
+        
+        /* Optional: Mobile adjustment */
+        @media (max-width: 768px) {
+            .creator-note {
+                right: 1rem;
+                font-size: 0.8rem;
+                top: 0.5rem;
+            }
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 4rem 2rem;
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+
+        h1 {
+            font-weight: 300;
+            font-size: 2.5rem;
+            margin: 0 0 1rem 0;
+        }
+
+        #searchBox {
+            width: 60%;
+            padding: 1rem;
+            border: none;
+            border-radius: 25px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            font-size: 1.1rem;
+            margin: 0 auto;
+            display: block;
+        }
+
+        .dictionary-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        .term-card {
+            background: white;
+            border-radius: 10px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            transition: transform 0.2s;
+        }
+
+        .term-card:hover {
+            transform: translateY(-3px);
+        }
+
+        .term {
+            color: var(--secondary);
+            font-weight: 600;
+            margin: 0 0 0.5rem 0;
+        }
+
+        .definition {
+            font-size: 0.95rem;
+            color: #666;
+            margin: 0;
+        }
+
+        @media (max-width: 768px) {
+            #searchBox {
+                width: 90%;
+            }
+            
+            .container {
+                padding: 1rem;
+            }
+        }

@@ -132,7 +132,7 @@
 
             .last-updated a,
             .last-updated a:visited {
-                color: inherit; /* Inherits the parent's text color */
+                color: #ecf0f1;
                 text-decoration: none; /* Removes underline */
                 transition: color 0.3s ease; /* Smooth color transition */
             }

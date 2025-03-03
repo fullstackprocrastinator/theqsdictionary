@@ -129,3 +129,16 @@
                 padding: 1rem;
             }
         }
+
+            .last-updated a,
+            .last-updated a:visited {
+                color: inherit; /* Inherits the parent's text color */
+                text-decoration: none; /* Removes underline */
+                transition: color 0.3s ease; /* Smooth color transition */
+            }
+            
+            .last-updated a:hover {
+                color: var(--secondary); /* Uses your theme's secondary color on hover */
+                text-decoration: underline; /* Optional: Add underline on hover */
+                cursor: pointer; /* Shows pointer cursor on hover */
+            }

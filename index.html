@@ -3,84 +3,175 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The QS Dictionary - Quantity Surveying Dictionary | Essential Construction Terms</title>
-    <meta name="description" content="Explore a comprehensive quantity surveying dictionary with UK construction terms and definitions.">
+    <title>The QS Dictionary | Quantity Surveying Terms, Acronyms and Definitions</title>
+    <meta name="description" content="Search a UK-focused dictionary of quantity surveying, commercial, construction, contract, measurement and M&E terms. Part of The QS Collection.">
+    <meta name="theme-color" content="#0f172a">
+    <link rel="canonical" href="https://www.theqsdictionary.com/">
+    <meta property="og:title" content="The QS Dictionary">
+    <meta property="og:description" content="Clear QS, commercial and construction definitions for quantity surveyors, students and project teams.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.theqsdictionary.com/">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1 id="page-title">The Quantity Surveying Dictionary</h1>
-        <input type="text" id="searchBox" placeholder="Search Quantity Surveying & Construction terms...">
-        <p class="last-updated">Last Updated: 19/09/2025</p>
-        <p class="last-updated"><a href="http://www.theqscalculators.com/" target="_blank">&#10062; Click here for The QS Calculators &#10062;</a></p>
-        <script data-goatcounter="https://191186.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
-        <div class="creator-note">
-           
-        </div>
+    <header class="site-header">
+        <nav class="topbar" aria-label="QS Collection">
+            <a class="brand" href="index.html" aria-label="The QS Dictionary home">
+                <span class="brand-mark">QS</span>
+                <span>
+                    <strong>The QS Dictionary</strong>
+                    <small>Part of The QS Collection</small>
+                </span>
+            </a>
+            <div class="nav-links">
+                <a href="index.html" aria-current="page">Dictionary</a>
+                <a href="https://www.theqssalaryindex.com/">Salary Index</a>
+                <a href="http://www.theqscalculators.com/">Calculators</a>
+                <a href="#submit">Submit a Term</a>
+            </div>
+        </nav>
+
+        <section class="hero" aria-labelledby="page-title">
+            <div class="hero-copy">
+                <p class="eyebrow">UK-focused QS reference database</p>
+                <h1 id="page-title">The QS Dictionary</h1>
+                <p class="lede">Clear definitions for Quantity Surveyors, commercial teams, students and construction professionals.</p>
+            </div>
+            <div class="hero-stats" aria-label="Dictionary statistics">
+                <div>
+                    <strong id="totalTerms">625+</strong>
+                    <span>terms</span>
+                </div>
+                <div>
+                    <strong>Reviewed</strong>
+                    <span>before publishing</span>
+                </div>
+                <div>
+                    <strong>UK</strong>
+                    <span>commercial focus</span>
+                </div>
+            </div>
+        </section>
     </header>
 
-    <div id="terms"></div>
-    <script>
-        function sortTerms() {
-            const grid = document.getElementById('dictionary');
-            if (!grid) return;
-            const terms = Array.from(grid.getElementsByClassName('term-card'));
-            
-            terms.sort((a, b) => {
-                const aText = a.querySelector('.term').textContent.toLowerCase();
-                const bText = b.querySelector('.term').textContent.toLowerCase();
-                return aText.localeCompare(bText);
-            });
-            
-            grid.innerHTML = '';
-            terms.forEach(term => grid.appendChild(term));
-        }
+    <main>
+        <section class="dictionary-shell" aria-labelledby="dictionary-heading">
+            <div class="search-panel">
+                <div class="search-heading">
+                    <div>
+                        <p class="eyebrow">Live search</p>
+                        <h2 id="dictionary-heading">Find a QS term</h2>
+                    </div>
+                    <p id="resultCount" class="result-count" aria-live="polite">Loading terms...</p>
+                </div>
 
-        function setupSearch() {
-            document.getElementById('searchBox').addEventListener('input', function(e) {
-                const searchTerm = e.target.value.toLowerCase();
-                const terms = document.querySelectorAll('.term-card');
+                <div class="search-row">
+                    <label class="search-field" for="searchBox">
+                        <span>Search</span>
+                        <input type="search" id="searchBox" autocomplete="off" placeholder="Search NEC, retention, CVR, variation...">
+                    </label>
+                    <label class="select-field" for="categoryFilter">
+                        <span>Category</span>
+                        <select id="categoryFilter">
+                            <option value="all">All categories</option>
+                        </select>
+                    </label>
+                    <label class="select-field" for="sortFilter">
+                        <span>Sort</span>
+                        <select id="sortFilter">
+                            <option value="az">A to Z</option>
+                            <option value="za">Z to A</option>
+                            <option value="category">Category</option>
+                        </select>
+                    </label>
+                </div>
 
-                terms.forEach(term => {
-                    const text = term.textContent.toLowerCase();
-                    term.style.display = text.includes(searchTerm) ? 'block' : 'none';
-                });
+                <div class="quick-filters" id="quickFilters" aria-label="Popular filters"></div>
+                <div class="alphabet-rail" id="alphabetRail" aria-label="Filter by first letter"></div>
+            </div>
 
-                sortTerms();
-            });
-        }
+            <div class="content-grid">
+                <aside class="insight-panel" aria-label="Dictionary collections">
+                    <section>
+                        <h2>Popular QS Terms</h2>
+                        <div id="popularTerms" class="link-list"></div>
+                    </section>
+                    <section>
+                        <h2>Newly Added</h2>
+                        <div id="newTerms" class="link-list"></div>
+                    </section>
+                    <section>
+                        <h2>Student Basics</h2>
+                        <div id="starterTerms" class="link-list"></div>
+                    </section>
+                </aside>
 
-        fetch('terms.html')
-            .then(response => response.text())
-            .then(data => {
-                document.getElementById('terms').innerHTML = data;
-                sortTerms();
-                setupSearch();
-            })
-            .catch(error => console.error('Error loading terms:', error));
-    </script>
-    <script>
-    document.addEventListener('DOMContentLoaded', function() {
-        const mediaQuery = window.matchMedia('(max-width: 767px)');
-        const pageTitle = document.getElementById('page-title');
-        const searchBox = document.getElementById('searchBox');
+                <section class="results-panel" aria-label="Dictionary results">
+                    <div id="emptyState" class="empty-state" hidden>
+                        <h2>No matching terms</h2>
+                        <p>Try another keyword, acronym or category.</p>
+                        <a href="#submit" class="text-link">Suggest this term</a>
+                    </div>
+                    <div id="results" class="results-list"></div>
+                </section>
 
-        function updateContent() {
-            if (mediaQuery.matches) {
-                pageTitle.textContent = 'The QS Dictionary';
-                searchBox.placeholder = 'Search terms...';
-            } else {
-                pageTitle.textContent = 'The Quantity Surveying Dictionary';
-                searchBox.placeholder = 'Search Quantity Surveying & Construction terms...';
-            }
-        }
+                <aside class="term-detail" id="termDetail" aria-label="Selected term">
+                    <p class="eyebrow" id="detailCategory">Selected term</p>
+                    <h2 id="detailTerm">Choose a term</h2>
+                    <p id="detailDefinition">Select any result to view its definition, aliases and shareable link.</p>
+                    <div id="detailAliases" class="alias-list"></div>
+                    <button class="copy-button" id="copyLinkButton" type="button">Copy Link</button>
+                </aside>
+            </div>
+        </section>
 
-        // Set initial content
-        updateContent();
+        <section class="submit-section" id="submit" aria-labelledby="submit-heading">
+            <div>
+                <p class="eyebrow">Reviewed submissions</p>
+                <h2 id="submit-heading">Submit a QS term</h2>
+                <p>Help keep the dictionary practical for quantity surveyors, commercial managers, students and project teams.</p>
+            </div>
+            <form id="submitForm" class="submit-form">
+                <label>
+                    <span>Term</span>
+                    <input type="text" id="suggestedTerm" name="term" required>
+                </label>
+                <label>
+                    <span>Definition or context</span>
+                    <textarea id="suggestedDefinition" name="definition" rows="4" required></textarea>
+                </label>
+                <label>
+                    <span>Category</span>
+                    <select id="suggestedCategory" name="category">
+                        <option>Commercial</option>
+                        <option>Contracts</option>
+                        <option>Measurement</option>
+                        <option>Construction</option>
+                        <option>M&E</option>
+                        <option>Legal</option>
+                        <option>Groundworks</option>
+                        <option>Acronyms</option>
+                    </select>
+                </label>
+                <label>
+                    <span>Your email (optional)</span>
+                    <input type="email" id="suggestedEmail" name="email">
+                </label>
+                <button type="submit">Prepare Submission</button>
+                <p id="submitStatus" class="form-status" aria-live="polite"></p>
+            </form>
+        </section>
+    </main>
 
-        // Update content when screen size changes
-        mediaQuery.addEventListener('change', updateContent);
-    });
-    </script>
+    <footer class="site-footer">
+        <span>&copy; 2026 The QS Dictionary</span>
+        <a href="https://www.theqscollection.com/">The QS Collection</a>
+        <a href="https://www.theqssalaryindex.com/">Salary Index</a>
+        <a href="http://www.theqscalculators.com/">Calculators</a>
+        <a href="#submit">Submit a Term</a>
+    </footer>
+
+    <script data-goatcounter="https://191186.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    <script src="script.js" defer></script>
 </body>
 </html>

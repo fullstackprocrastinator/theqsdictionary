@@ -1,0 +1,5521 @@
+[
+  {
+    "id": "aa-architect-s-instruction",
+    "term": "AA (Architect's Instruction)",
+    "definition": "Written instruction issued by architect under construction contracts.",
+    "category": "Acronyms",
+    "aliases": [
+      "Architect's Instruction",
+      "AA"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "abta-arbitration",
+    "term": "ABTA Arbitration",
+    "definition": "Specialist construction arbitration scheme.",
+    "category": "Contracts",
+    "aliases": [
+      "ABTA"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "abutment",
+    "term": "Abutment",
+    "definition": "The point where two structures or components meet, often used in bridge construction.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "acceleration",
+    "term": "Acceleration",
+    "definition": "Measures to complete works earlier than planned, often incurring additional costs.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "acceleration-quote-nec",
+    "term": "Acceleration Quote (NEC)",
+    "definition": "Contractor's proposal for achieving earlier completion.",
+    "category": "Contracts",
+    "aliases": [
+      "NEC",
+      "Acceleration Quote"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "access-shaft-tunnel",
+    "term": "Access Shaft (Tunnel)",
+    "definition": "Vertical construction entry for underground works.",
+    "category": "Construction",
+    "aliases": [
+      "Tunnel",
+      "Access Shaft"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "acoustic-insulation",
+    "term": "Acoustic Insulation",
+    "definition": "Soundproofing material in partitions.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "acoustic-sealant",
+    "term": "Acoustic Sealant",
+    "definition": "Soundproofing drylining mastic.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "activity-schedule-nec",
+    "term": "Activity Schedule (NEC)",
+    "definition": "List of activities with prices in Option A contracts.",
+    "category": "Contracts",
+    "aliases": [
+      "NEC",
+      "Activity Schedule"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "ad-hoc-contract",
+    "term": "Ad Hoc Contract",
+    "definition": "A contract created for a specific, one-off purpose rather than using a standard industry form.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "adjudication",
+    "term": "Adjudication",
+    "definition": "Statutory dispute resolution process under Housing Grants Act 1996.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "adjudicator-s-decision",
+    "term": "Adjudicator's Decision",
+    "definition": "Temporarily binding determination under Housing Grants Act 1996.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "adjudicator-s-decision-fidic",
+    "term": "Adjudicator's Decision (FIDIC)",
+    "definition": "Binding interim resolution of disputes.",
+    "category": "Contracts",
+    "aliases": [
+      "FIDIC",
+      "Adjudicator's Decision"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "advanced-payment-guarantee-fidic",
+    "term": "Advanced Payment Guarantee (FIDIC)",
+    "definition": "Security for upfront payments to contractor.",
+    "category": "Contracts",
+    "aliases": [
+      "FIDIC",
+      "Advanced Payment Guarantee"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "afp-application-for-payment",
+    "term": "AFP (Application for Payment)",
+    "definition": "Formal request by contractor for interim payments during works.",
+    "category": "Commercial",
+    "aliases": [
+      "Application for Payment",
+      "AFP"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "ahu-air-handling-unit",
+    "term": "AHU (Air Handling Unit)",
+    "definition": "A central unit in an HVAC system that conditions and circulates air.",
+    "category": "M&E",
+    "aliases": [
+      "Air Handling Unit",
+      "AHU"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "air-barrier",
+    "term": "Air Barrier",
+    "definition": "A material or system that prevents the uncontrolled flow of air into or out of a building.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "air-test",
+    "term": "Air Test",
+    "definition": "Assessment of building airtightness required under Part L regulations.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "aircrete-block",
+    "term": "Aircrete Block",
+    "definition": "Lightweight aerated concrete masonry unit.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "approved-document-b",
+    "term": "Approved Document B",
+    "definition": "Fire safety regulations under Building Regulations.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "arbitration-act-1996",
+    "term": "Arbitration Act 1996",
+    "definition": "UK legislation governing arbitration proceedings.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "architrave",
+    "term": "Architrave",
+    "definition": "Decorative moulding around door/window openings.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "as-built-drawings",
+    "term": "As-Built Drawings",
+    "definition": "Final drawings showing the completed project, including changes made during construction.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "asbestos-survey",
+    "term": "Asbestos Survey",
+    "definition": "A mandatory survey to identify the location and type of asbestos in a building before demolition or refurbishment.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "ascertained-loss",
+    "term": "Ascertained Loss",
+    "definition": "Quantified financial loss from contractual breach.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "assignment",
+    "term": "Assignment",
+    "definition": "The legal transfer of rights and benefits of a contract from one party to another.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "astm-e814",
+    "term": "ASTM E814",
+    "definition": "Standard for firestop system testing.",
+    "category": "Acronyms",
+    "aliases": [
+      "ASTM"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "attenuation-tank",
+    "term": "Attenuation Tank",
+    "definition": "An underground tank used in drainage systems to temporarily store stormwater and release it slowly.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "aws-automatic-warning-system",
+    "term": "AWS (Automatic Warning System)",
+    "definition": "Train cab signalling system providing audible warnings.",
+    "category": "Acronyms",
+    "aliases": [
+      "Automatic Warning System",
+      "AWS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "backbone-cabling",
+    "term": "Backbone Cabling",
+    "definition": "Primary high-capacity cabling connecting telecom rooms and equipment.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "backer-rod",
+    "term": "Backer Rod",
+    "definition": "Foam filler for floor expansion joints.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "backsaw",
+    "term": "Backsaw",
+    "definition": "Fine-toothed saw with reinforced spine for precise cutting.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "ballast",
+    "term": "Ballast",
+    "definition": "Crushed stone supporting railway sleepers and track.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "barton-rail",
+    "term": "Barton Rail",
+    "definition": "Type of temporary railway track system.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "base-date",
+    "term": "Base Date",
+    "definition": "Reference date for price fluctuation calculations.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "battening",
+    "term": "Battening",
+    "definition": "Thin timber strips used as fixing base for cladding/plasterboard.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "battering",
+    "term": "Battering",
+    "definition": "Sloping sides of excavations for stability.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "battle-of-the-forms",
+    "term": "Battle of the Forms",
+    "definition": "A contractual dispute where each party claims their own standard terms and conditions should apply.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "bauder-liquid-roofing",
+    "term": "Bauder Liquid Roofing",
+    "definition": "Cold-applied waterproofing membrane.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "bco-building-control-officer",
+    "term": "BCO (Building Control Officer)",
+    "definition": "Local authority construction compliance inspector.",
+    "category": "Acronyms",
+    "aliases": [
+      "Building Control Officer",
+      "BCO"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "bentonite-slurry",
+    "term": "Bentonite Slurry",
+    "definition": "Clay mixture used in diaphragm wall construction.",
+    "category": "Groundworks",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "bespoke-amendment",
+    "term": "Bespoke Amendment",
+    "definition": "Custom contract clause deviating from standard forms.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "bid-bond",
+    "term": "Bid Bond",
+    "definition": "Financial guarantee of tender commitment.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "bifurcation",
+    "term": "Bifurcation",
+    "definition": "Separating liability and quantum in proceedings.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "bills-of-quantities-boq",
+    "term": "Bills of Quantities (BoQ)",
+    "definition": "NRM2 measured schedule of works.",
+    "category": "Commercial",
+    "aliases": [
+      "BoQ",
+      "Bills of Quantities"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "bim-execution-plan-bep",
+    "term": "BIM Execution Plan (BEP)",
+    "definition": "Protocols for digital project delivery.",
+    "category": "Construction Tech",
+    "aliases": [
+      "BEP",
+      "BIM",
+      "BIM Execution Plan"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "bim-level-2",
+    "term": "BIM Level 2",
+    "definition": "UK government-mandated collaborative 3D modelling standard.",
+    "category": "Construction Tech",
+    "aliases": [
+      "BIM"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "binder-course",
+    "term": "Binder Course",
+    "definition": "The intermediate layer in a road pavement, located between the surface course and the base course.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "biodiversity-net-gain-bng",
+    "term": "Biodiversity Net Gain (BNG)",
+    "definition": "A planning requirement ensuring a development leaves the natural environment in a measurably better state than before.",
+    "category": "Legal",
+    "aliases": [
+      "BNG",
+      "Biodiversity Net Gain"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "bioswale",
+    "term": "Bioswale",
+    "definition": "Vegetated drainage channel for stormwater management.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "block-bonding",
+    "term": "Block Bonding",
+    "definition": "Pattern using different coloured bricks for decoration.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "bms-building-management-system",
+    "term": "BMS (Building Management System)",
+    "definition": "A computer-based system that controls and monitors a building's mechanical and electrical equipment.",
+    "category": "M&E",
+    "aliases": [
+      "Building Management System",
+      "BMS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "bonding-compound",
+    "term": "Bonding Compound",
+    "definition": "Floor preparation adhesive primer.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "boq-bill-of-quantities",
+    "term": "BoQ (Bill of Quantities)",
+    "definition": "Document itemising materials and workmanship for tendering purposes.",
+    "category": "Commercial",
+    "aliases": [
+      "Bill of Quantities",
+      "BoQ"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "bramall-v-bywater",
+    "term": "Bramall v Bywater",
+    "definition": "Key case on adjudication enforcement.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "breeam",
+    "term": "BREEAM",
+    "definition": "Sustainability assessment method for buildings.",
+    "category": "Acronyms",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "breeam-assessment",
+    "term": "BREEAM Assessment",
+    "definition": "Method for assessing the sustainability performance of buildings.",
+    "category": "Acronyms",
+    "aliases": [
+      "BREEAM"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "breeam-outstanding",
+    "term": "BREEAM Outstanding",
+    "definition": "Highest sustainability rating under BREEAM assessment.",
+    "category": "Acronyms",
+    "aliases": [
+      "BREEAM"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "brick-slip",
+    "term": "Brick Slip",
+    "definition": "Thin brick facing for lightweight construction.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "brickwork-quantities",
+    "term": "Brickwork Quantities",
+    "definition": "Calculation including 5% cutting/waste allowance.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "buckling",
+    "term": "Buckling",
+    "definition": "Lateral deformation in masonry under load.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "building-envelope",
+    "term": "Building Envelope",
+    "definition": "Physical separator between interior/exterior of a building (walls, roofs, floors).",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "building-logbook",
+    "term": "Building Logbook",
+    "definition": "Statutory operational performance record.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "bund-wall",
+    "term": "Bund Wall",
+    "definition": "Containment wall to prevent liquid spread, used around fuel storage tanks.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "busbar",
+    "term": "Busbar",
+    "definition": "A metallic strip or bar for high-current power distribution inside switchgear and panel boards.",
+    "category": "M&E",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "cable-tray",
+    "term": "Cable Tray",
+    "definition": "A support system used to manage and route electrical cables and wires.",
+    "category": "M&E",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "caisson-foundation",
+    "term": "Caisson Foundation",
+    "definition": "Watertight structure for underwater construction.",
+    "category": "Groundworks",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "california-bearing-ratio-cbr",
+    "term": "California Bearing Ratio (CBR)",
+    "definition": "A penetration test to evaluate the mechanical strength of subgrade soils for road and pavement design.",
+    "category": "M&E",
+    "aliases": [
+      "CBR",
+      "California Bearing Ratio"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "cant-rail",
+    "term": "Cant Rail",
+    "definition": "Curved section of railway carriage roof structure.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "carcassing",
+    "term": "Carcassing",
+    "definition": "Structural timber framework for floors/roofs.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "cash-flow-forecast",
+    "term": "Cash Flow Forecast",
+    "definition": "A projection of the timing and amount of money moving in and out of a project or business.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "cat6-ftp",
+    "term": "Cat6 FTP",
+    "definition": "Shielded twisted-pair cable for EMI resistance.",
+    "category": "M&E",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "cavity-barrier",
+    "term": "Cavity Barrier",
+    "definition": "Fire-stopping material in wall cavities.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "cavity-wall-tie",
+    "term": "Cavity Wall Tie",
+    "definition": "Metal connector between inner/outer masonry leaves.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "cde-common-data-environment",
+    "term": "CDE (Common Data Environment)",
+    "definition": "A central digital repository where project information is stored and managed in a BIM process.",
+    "category": "Construction Tech",
+    "aliases": [
+      "Common Data Environment",
+      "CDE"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "cdm-2015",
+    "term": "CDM 2015",
+    "definition": "Construction (Design and Management) Regulations 2015.",
+    "category": "Legal",
+    "aliases": [
+      "CDM"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "celcon-block",
+    "term": "Celcon Block",
+    "definition": "Aerated concrete masonry unit for wall construction.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "cellular-beam-system",
+    "term": "Cellular Beam System",
+    "definition": "Steel beams with web openings for services.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "cembrit-board",
+    "term": "Cembrit Board",
+    "definition": "High-pressure fibre cement sheet.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "cessm4",
+    "term": "CESSM4",
+    "definition": "Civil Engineering Standard Method of Measurement 4th Edition.",
+    "category": "Measurement",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "chasing",
+    "term": "Chasing",
+    "definition": "Grooves cut into walls for concealed pipework/cabling.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "christmas-tree-wellhead",
+    "term": "Christmas Tree (Wellhead)",
+    "definition": "Assembly of valves controlling oil/gas well flow.",
+    "category": "Construction",
+    "aliases": [
+      "Wellhead",
+      "Christmas Tree"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "chw-chilled-water",
+    "term": "CHW (Chilled Water)",
+    "definition": "Water cooled by a chiller plant and circulated through pipes to provide air conditioning.",
+    "category": "M&E",
+    "aliases": [
+      "Chilled Water",
+      "CHW"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "cil-community-infrastructure-levy",
+    "term": "CIL (Community Infrastructure Levy)",
+    "definition": "A charge levied by local authorities on new developments to help fund local infrastructure.",
+    "category": "Acronyms",
+    "aliases": [
+      "Community Infrastructure Levy",
+      "CIL"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "ciob-chartered-institute-of-building",
+    "term": "CIOB (Chartered Institute of Building)",
+    "definition": "Professional body for construction managers.",
+    "category": "Acronyms",
+    "aliases": [
+      "Chartered Institute of Building",
+      "CIOB"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "cis-gross-status",
+    "term": "CIS Gross Status",
+    "definition": "Tax status where deductions aren't made from payments.",
+    "category": "Commercial",
+    "aliases": [
+      "CIS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "clarification-period",
+    "term": "Clarification Period",
+    "definition": "Post-tender query resolution phase.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "clash-detection",
+    "term": "Clash Detection",
+    "definition": "A BIM process that identifies where different building elements or systems interfere with each other in a 3D model.",
+    "category": "Construction Tech",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "clerk-of-works",
+    "term": "Clerk of Works",
+    "definition": "Site-based professional ensuring work meets required standards.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "cmp-communications-plenum",
+    "term": "CMP (Communications Plenum)",
+    "definition": "Cable rating for plenum spaces.",
+    "category": "M&E",
+    "aliases": [
+      "Communications Plenum",
+      "CMP"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "cobie",
+    "term": "COBie",
+    "definition": "Construction Operations Building Information Exchange; a data format for publishing asset information.",
+    "category": "Construction Tech",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "cold-bridge",
+    "term": "Cold Bridge",
+    "definition": "Area where heat transfers quickly, causing thermal inefficiency.",
+    "category": "Measurement",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "collateral-warranty",
+    "term": "Collateral Warranty",
+    "definition": "Secondary agreement granting rights to third parties.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "coloured-rendermix",
+    "term": "Coloured Rendermix",
+    "definition": "Pre-pigmented external render compound.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "commissioning",
+    "term": "Commissioning",
+    "definition": "The process of testing and verifying that all building systems (M&E) operate as designed.",
+    "category": "M&E",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "compensation-event-nec",
+    "term": "Compensation Event (NEC)",
+    "definition": "Equivalent to variations under NEC contracts.",
+    "category": "Contracts",
+    "aliases": [
+      "NEC",
+      "Compensation Event"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "compliance-matrix",
+    "term": "Compliance Matrix",
+    "definition": "Tender response cross-reference document.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "composite-take-off",
+    "term": "Composite Take-Off",
+    "definition": "Combining multiple measurements into a single BoQ item.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "composite-trapezoidal-decking",
+    "term": "Composite Trapezoidal Decking",
+    "definition": "Structural metal floor/roof former with concrete.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "compressive-strength",
+    "term": "Compressive Strength",
+    "definition": "The capacity of a material, like concrete, to withstand loads that tend to decrease its size.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "conciliation",
+    "term": "Conciliation",
+    "definition": "Formal assisted negotiation between disputing parties.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "concurrent-delay",
+    "term": "Concurrent Delay",
+    "definition": "Overlapping employer/contractor caused delays.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "condition-precedent",
+    "term": "Condition Precedent",
+    "definition": "A contractual clause that must be fulfilled before a party's obligations or rights come into effect.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "construction-management-contract",
+    "term": "Construction Management Contract",
+    "definition": "Procurement method using a construction manager for client oversight.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "contingency",
+    "term": "Contingency",
+    "definition": "A sum of money included in a project budget to cover unforeseen costs.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "contra-charge",
+    "term": "Contra Charge",
+    "definition": "Deduction from payment for rectification costs.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "contra-proferentem",
+    "term": "Contra Proferentem",
+    "definition": "Rule interpreting ambiguous clauses against drafter.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "contract-sum-analysis",
+    "term": "Contract Sum Analysis",
+    "definition": "Breakdown of tender pricing elements.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "contract-works",
+    "term": "Contract Works",
+    "definition": "Entire scope of work defined in the construction contract.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "contractor-s-direction",
+    "term": "Contractor's Direction",
+    "definition": "Formal instruction from client/contract administrator.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "core-wall-construction",
+    "term": "Core Wall Construction",
+    "definition": "Central reinforced concrete stability element in tall buildings.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "corten-steel",
+    "term": "Corten Steel",
+    "definition": "Weather-resistant steel used in architectural features.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "coshh",
+    "term": "COSHH",
+    "definition": "Control of Substances Hazardous to Health Regulations; UK law requiring employers to control hazardous substances.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "cost-led-procurement",
+    "term": "Cost Led Procurement",
+    "definition": "Budget-driven contractor selection process.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "cost-limit-obligation",
+    "term": "Cost Limit Obligation",
+    "definition": "Contractual cap on client's financial liability.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "cost-plan",
+    "term": "Cost Plan",
+    "definition": "Budget breakdown by building elements (NRM1).",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "cost-reimbursable",
+    "term": "Cost Reimbursable",
+    "definition": "Payment of actual costs + fee (JCT Cost Plus).",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "cost-reimbursable-contract",
+    "term": "Cost Reimbursable Contract",
+    "definition": "Agreement where contractors are paid actual costs plus a fee.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "coving",
+    "term": "Coving",
+    "definition": "Curved drylining transition at ceiling junctions.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "crystallisation",
+    "term": "Crystallisation",
+    "definition": "When a dispute becomes capable of formal resolution.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "cvr-cost-value-reconciliation",
+    "term": "CVR (Cost Value Reconciliation)",
+    "definition": "Process comparing actual costs against valuation income.",
+    "category": "Commercial",
+    "aliases": [
+      "Cost Value Reconciliation",
+      "CVR"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "d-and-b-design-and-build",
+    "term": "D&B (Design and Build)",
+    "definition": "Contract where contractor handles both design and construction.",
+    "category": "Contracts",
+    "aliases": [
+      "Design and Build",
+      "D&B"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "dado-rail",
+    "term": "Dado Rail",
+    "definition": "Horizontal moulding protecting walls from chair backs.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "damp-proof-course-dpc",
+    "term": "Damp Proof Course (DPC)",
+    "definition": "Horizontal moisture barrier in masonry walls.",
+    "category": "Acronyms",
+    "aliases": [
+      "DPC",
+      "Damp Proof Course"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "damp-proof-course-high-rise",
+    "term": "Damp Proof Course (High-Rise)",
+    "definition": "Membrane preventing moisture rise in tall masonry structures.",
+    "category": "Construction",
+    "aliases": [
+      "High-Rise",
+      "Damp Proof Course"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "damp-proof-membrane-dpm",
+    "term": "Damp Proof Membrane (DPM)",
+    "definition": "Polythene layer under ground floor slabs.",
+    "category": "Groundworks",
+    "aliases": [
+      "DPM",
+      "Damp Proof Membrane"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "davit-system",
+    "term": "Davit System",
+    "definition": "Offshore platform lifting apparatus.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "daylight-factor",
+    "term": "Daylight Factor",
+    "definition": "Measure of natural light indoors as percentage of outdoor light.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "daywork",
+    "term": "Daywork",
+    "definition": "Work paid based on time spent plus materials used.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "dayworks",
+    "term": "Dayworks",
+    "definition": "Work priced hourly (labour + plant + materials).",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "dedicated-micro-exhaust",
+    "term": "Dedicated Micro-Exhaust",
+    "definition": "MEV system for apartment ventilation.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "deed-of-variation",
+    "term": "Deed of Variation",
+    "definition": "A formal legal document used to make a change to the terms of an existing contract.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "defective-premises-act-1972",
+    "term": "Defective Premises Act 1972",
+    "definition": "Statutory liability for unfit dwellings.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "defined-cost-nec",
+    "term": "Defined Cost (NEC)",
+    "definition": "Allowable costs under NEC Option C-E contracts.",
+    "category": "Contracts",
+    "aliases": [
+      "NEC",
+      "Defined Cost"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "delamination",
+    "term": "Delamination",
+    "definition": "The separation of a material into layers, often seen in finishes like plaster or render.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "deluge-system",
+    "term": "Deluge System",
+    "definition": "Sprinkler system with open nozzles for rapid water discharge.",
+    "category": "M&E",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "demountable-partitioning",
+    "term": "Demountable Partitioning",
+    "definition": "Reconfigurable non-structural wall systems.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "derrick",
+    "term": "Derrick",
+    "definition": "Framework over oil well for supporting drilling equipment.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "dew-point",
+    "term": "Dew Point",
+    "definition": "Temperature where air becomes saturated with moisture, causing condensation.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "dewatering",
+    "term": "Dewatering",
+    "definition": "Removal of groundwater from excavation sites.",
+    "category": "Groundworks",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "disallowed-cost-nec",
+    "term": "Disallowed Cost (NEC)",
+    "definition": "Costs excluded from payment under target contracts.",
+    "category": "Contracts",
+    "aliases": [
+      "NEC",
+      "Disallowed Cost"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "disruption-claim",
+    "term": "Disruption Claim",
+    "definition": "Compensation for productivity loss due to interference.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "dmrb-design-manual-for-roads-and-bridges",
+    "term": "DMRB (Design Manual for Roads and Bridges)",
+    "definition": "A comprehensive manual providing standards and advice for trunk road and motorway design in the UK.",
+    "category": "Acronyms",
+    "aliases": [
+      "Design Manual for Roads and Bridges",
+      "DMRB"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "dot-and-dab",
+    "term": "Dot & Dab",
+    "definition": "Drylining adhesive fixing method.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "dpm-damp-proof-membrane",
+    "term": "DPM (Damp Proof Membrane)",
+    "definition": "Polythene sheet preventing moisture ingress.",
+    "category": "Acronyms",
+    "aliases": [
+      "Damp Proof Membrane",
+      "DPM"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "drafting-particulars",
+    "term": "Drafting Particulars",
+    "definition": "Formal statement of case in legal proceedings.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "dragline-excavation",
+    "term": "Dragline Excavation",
+    "definition": "Deep excavation technique using crane-mounted bucket.",
+    "category": "Groundworks",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "drainage-channel",
+    "term": "Drainage Channel",
+    "definition": "System to collect and divert surface water.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "dry-fix",
+    "term": "Dry Fix",
+    "definition": "Bricklaying without mortar for temporary structures.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "dry-rot",
+    "term": "Dry Rot",
+    "definition": "A type of wood-destroying fungus that causes timber to decay and crumble.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "ductwork",
+    "term": "Ductwork",
+    "definition": "A system of channels or pipes used in HVAC systems for conveying and removing air.",
+    "category": "M&E",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "duty-of-care",
+    "term": "Duty of Care",
+    "definition": "Legal obligation to avoid foreseeable harm.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "duty-to-warn",
+    "term": "Duty to Warn",
+    "definition": "A legal obligation for a professional to warn a client of potential dangers or issues, even if not explicitly in their scope.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "e-tendering",
+    "term": "E-Tendering",
+    "definition": "Electronic bid submission platform.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "earned-value-management-evm",
+    "term": "Earned Value Management (EVM)",
+    "definition": "Progress measurement against budget/schedule.",
+    "category": "Measurement",
+    "aliases": [
+      "EVM",
+      "Earned Value Management"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "easement",
+    "term": "Easement",
+    "definition": "Legal right to use another's land (e.g., drainage).",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "eaves-ventilation",
+    "term": "Eaves Ventilation",
+    "definition": "Roof space airflow to prevent condensation.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "eci-early-contractor-involvement",
+    "term": "ECI (Early Contractor Involvement)",
+    "definition": "Collaborative procurement model for complex projects.",
+    "category": "Construction Tech",
+    "aliases": [
+      "Early Contractor Involvement",
+      "ECI"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "economic-duress",
+    "term": "Economic Duress",
+    "definition": "Illegitimate pressure affecting contractual agreement.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "efflorescence",
+    "term": "Efflorescence",
+    "definition": "A crystalline deposit of salts that can appear on the surface of brickwork, concrete, or stone.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "egress-window",
+    "term": "Egress Window",
+    "definition": "Fire-rated window for emergency exits.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "eia-environmental-impact-assessment",
+    "term": "EIA (Environmental Impact Assessment)",
+    "definition": "A formal process to predict the environmental consequences of a proposed development before it is approved.",
+    "category": "Acronyms",
+    "aliases": [
+      "Environmental Impact Assessment",
+      "EIA"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "eicr-electrical-installation-condition-report",
+    "term": "EICR (Electrical Installation Condition Report)",
+    "definition": "Periodic inspection of fixed electrical systems.",
+    "category": "M&E",
+    "aliases": [
+      "Electrical Installation Condition Report",
+      "EICR"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "elemental-cost-plan",
+    "term": "Elemental Cost Plan",
+    "definition": "Budget breakdown by building components (e.g., substructure, superstructure).",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "embodied-carbon",
+    "term": "Embodied Carbon",
+    "definition": "Total carbon emissions from material production, transport, and construction.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "engineer-s-instruction-fidic",
+    "term": "Engineer's Instruction (FIDIC)",
+    "definition": "Binding order under Sub-Clause 3.3.",
+    "category": "Contracts",
+    "aliases": [
+      "FIDIC",
+      "Engineer's Instruction"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "entire-agreement-clause",
+    "term": "Entire Agreement Clause",
+    "definition": "A contract clause stating that the written contract is the complete and final agreement between the parties.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "environmental-protection-act-1990",
+    "term": "Environmental Protection Act 1990",
+    "definition": "Legislation controlling construction pollution.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "eot-engineers-ordering-time",
+    "term": "EOT (Engineers Ordering Time)",
+    "definition": "Railway possession period for works.",
+    "category": "Contracts",
+    "aliases": [
+      "Engineers Ordering Time",
+      "EOT"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "eot-extension-of-time",
+    "term": "EOT (Extension of Time)",
+    "definition": "Contractual provision for project timeline extensions.",
+    "category": "Contracts",
+    "aliases": [
+      "Extension of Time",
+      "EOT"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "eot-entitlement-fidic",
+    "term": "EOT Entitlement (FIDIC)",
+    "definition": "Contractual right to extension of time.",
+    "category": "Contracts",
+    "aliases": [
+      "FIDIC",
+      "EOT",
+      "EOT Entitlement"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "epc-energy-performance-certificate",
+    "term": "EPC (Energy Performance Certificate)",
+    "definition": "Legally required energy efficiency rating for buildings.",
+    "category": "Acronyms",
+    "aliases": [
+      "Energy Performance Certificate",
+      "EPC"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "escrow-account-jct",
+    "term": "Escrow Account (JCT)",
+    "definition": "Protected fund for specific project costs.",
+    "category": "Contracts",
+    "aliases": [
+      "JCT",
+      "Escrow Account"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "espalier",
+    "term": "Espalier",
+    "definition": "Training plants to grow flat against walls or fences.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "estoppel",
+    "term": "Estoppel",
+    "definition": "Bar on asserting contrary to prior position.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "ex-gratia-payment",
+    "term": "Ex Gratia Payment",
+    "definition": "Voluntary payment without admission of liability.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "expansion-joint",
+    "term": "Expansion Joint",
+    "definition": "Structural gap allowing thermal expansion/contraction.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "expert-determination",
+    "term": "Expert Determination",
+    "definition": "Binding resolution by technical specialist.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "express-term",
+    "term": "Express Term",
+    "definition": "A term in a contract that is specifically stated, either orally or in writing.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "extension-of-time-eot",
+    "term": "Extension of Time (EOT)",
+    "definition": "JCT: Clause 2.26 / FIDIC: Sub-Clause 8.4.",
+    "category": "Contracts",
+    "aliases": [
+      "EOT",
+      "Extension of Time"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "extra-over",
+    "term": "Extra Over",
+    "definition": "Additional cost for specified work over a base item (e.g., \"tiling extra over screed\").",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "f10-notification",
+    "term": "F10 Notification",
+    "definition": "A form submitted to the HSE to notify them of a construction project under CDM 2015 regulations.",
+    "category": "Legal",
+    "aliases": [
+      "F10"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "fa-ade-retention",
+    "term": "Façade Retention",
+    "definition": "A temporary works technique where the front wall of a building is supported while the rest is demolished and rebuilt.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "falsework",
+    "term": "Falsework",
+    "definition": "Temporary structures used to support a permanent structure until it can support itself.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fcu-fan-coil-unit",
+    "term": "FCU (Fan Coil Unit)",
+    "definition": "HVAC component for localised temperature control.",
+    "category": "M&E",
+    "aliases": [
+      "Fan Coil Unit",
+      "FCU"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "fenestration",
+    "term": "Fenestration",
+    "definition": "Arrangement of windows in building design.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "ff-and-e-furniture-fixtures-and-equipment",
+    "term": "FF&E (Furniture, Fixtures & Equipment)",
+    "definition": "Non-structural elements specified in fit-out projects.",
+    "category": "Acronyms",
+    "aliases": [
+      "Furniture, Fixtures & Equipment",
+      "FF&E"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "fibreglass-insulation",
+    "term": "Fibreglass Insulation",
+    "definition": "Thermal quilt between timber studs.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fidic-red-book",
+    "term": "FIDIC Red Book",
+    "definition": "Construction contract for engineer-designed works.",
+    "category": "Contracts",
+    "aliases": [
+      "FIDIC"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "fidic-silver-book",
+    "term": "FIDIC Silver Book",
+    "definition": "EPC/turnkey project contract form.",
+    "category": "Contracts",
+    "aliases": [
+      "FIDIC"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "final-account",
+    "term": "Final Account",
+    "definition": "Agreed total contract value after all adjustments.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "final-measurement",
+    "term": "Final Measurement",
+    "definition": "Detailed post-completion quantity assessment.",
+    "category": "Measurement",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fire-alarm-system",
+    "term": "Fire Alarm System",
+    "definition": "A system of detectors, alarms, and control panels designed to detect and alert occupants of a fire.",
+    "category": "M&E",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fire-barrier",
+    "term": "Fire Barrier",
+    "definition": "Assembly maintaining compartmentalization.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fire-compartmentalization",
+    "term": "Fire Compartmentalization",
+    "definition": "Dividing buildings into fire-resistant zones.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fire-damper",
+    "term": "Fire Damper",
+    "definition": "Autatic closure in ducts to block fire.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fire-door-assembly",
+    "term": "Fire Door Assembly",
+    "definition": "Certified door, frame, and hardware system with fire rating.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fire-load",
+    "term": "Fire Load",
+    "definition": "Potential energy released by combustibles in a space.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fire-partition",
+    "term": "Fire Partition",
+    "definition": "Fire-resistant wall subdividing spaces.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fire-resistance-rating",
+    "term": "Fire Resistance Rating",
+    "definition": "Duration a material resists fire (e.g., 1hr, 2hr).",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fire-stopping",
+    "term": "Fire Stopping",
+    "definition": "Materials sealing openings to prevent fire/smoke spread.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fire-suppression-gas",
+    "term": "Fire Suppression Gas",
+    "definition": "Clean agent (e.g., FM-200) for server room fire protection.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fire-rated-board",
+    "term": "Fire-Rated Board",
+    "definition": "Gypsum product for compartmentation.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fire-rated-insulation",
+    "term": "Fire-Rated Insulation",
+    "definition": "Thermal insulation with fire resistance.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fireblock",
+    "term": "Fireblock",
+    "definition": "Material resisting fire in concealed spaces.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fireproofing-encasement",
+    "term": "Fireproofing Encasement",
+    "definition": "Concrete/gypsum protection for structural steel.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "firestop-collar",
+    "term": "Firestop Collar",
+    "definition": "Intumescent device for plastic pipe seals.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "firestop-mortar",
+    "term": "Firestop Mortar",
+    "definition": "Cementitious sealant for large openings.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "firestop-pillow",
+    "term": "Firestop Pillow",
+    "definition": "Compressible barrier for temporary openings.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "firestop-sealant",
+    "term": "Firestop Sealant",
+    "definition": "Elastomeric material for penetrations.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "firestop-sleeve",
+    "term": "Firestop Sleeve",
+    "definition": "Intumescent collar sealing cable penetrations.",
+    "category": "M&E",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "firestopping-collar",
+    "term": "Firestopping Collar",
+    "definition": "Intumescent ring for sealing pipe penetrations.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "first-fix",
+    "term": "First Fix",
+    "definition": "Initial installation of services before plastering.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fit-for-purpose",
+    "term": "Fit for Purpose",
+    "definition": "A contractual obligation ensuring that materials or works are suitable for their intended use.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "flanking-transmission",
+    "term": "Flanking Transmission",
+    "definition": "Indirect sound transmission through building elements.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "flare-stack",
+    "term": "Flare Stack",
+    "definition": "Offshore gas combustion structure.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "flashing-detail",
+    "term": "Flashing Detail",
+    "definition": "Weatherproofing at brickwork junctions.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fluctuations",
+    "term": "Fluctuations",
+    "definition": "Price adjustment clauses for inflation (JCT Option B).",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fluctuations-clause",
+    "term": "Fluctuations Clause",
+    "definition": "Contract provision for material/labour price changes.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "force-majeure",
+    "term": "Force Majeure",
+    "definition": "Unforeseeable events preventing contract performance.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "force-majeure-fidic",
+    "term": "Force Majeure (FIDIC)",
+    "definition": "Unforeseeable circumstances preventing contract fulfilment.",
+    "category": "Contracts",
+    "aliases": [
+      "FIDIC",
+      "Force Majeure"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "formwork",
+    "term": "Formwork",
+    "definition": "A temporary mould into which concrete is poured to form a desired shape.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "foul-water-drainage",
+    "term": "Foul Water Drainage",
+    "definition": "System for wastewater from toilets/sinks.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "fpso-floating-production-storage-offloading",
+    "term": "FPSO (Floating Production Storage Offloading)",
+    "definition": "Offshore vessel for processing/storing hydrocarbons.",
+    "category": "Acronyms",
+    "aliases": [
+      "Floating Production Storage Offloading",
+      "FPSO"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "freezing-injunction",
+    "term": "Freezing Injunction",
+    "definition": "Court order preventing asset disposal.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "frog-bricklaying",
+    "term": "Frog (Bricklaying)",
+    "definition": "Indentation in brick's upper surface.",
+    "category": "Construction",
+    "aliases": [
+      "Bricklaying",
+      "Frog"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "ftth-fiber-to-the-home",
+    "term": "FTTH (Fiber to the Home)",
+    "definition": "Fiber optic delivery to residential buildings.",
+    "category": "Acronyms",
+    "aliases": [
+      "Fiber to the Home",
+      "FTTH"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "g-value-solar-factor",
+    "term": "G-value (Solar Factor)",
+    "definition": "Measure of solar energy transmission through glazing.",
+    "category": "Construction",
+    "aliases": [
+      "Solar Factor",
+      "G-value"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "gabion-basket",
+    "term": "Gabion Basket",
+    "definition": "Wire cage filled with stone for retaining walls.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "gabion-wall",
+    "term": "Gabion Wall",
+    "definition": "Retaining structure using wire cages filled with stone.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "gang-nail-plate",
+    "term": "Gang-Nail Plate",
+    "definition": "Metal connector for timber roof trusses.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "gantry-crane-rail",
+    "term": "Gantry Crane (Rail)",
+    "definition": "Overhead lifting system in depots.",
+    "category": "Construction",
+    "aliases": [
+      "Rail",
+      "Gantry Crane"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "gauntleted-track",
+    "term": "Gauntleted Track",
+    "definition": "Overlapping railway lines at complex junctions.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "geotextile",
+    "term": "Geotextile",
+    "definition": "A permeable fabric used in civil engineering to separate, filter, reinforce, or drain soil.",
+    "category": "Groundworks",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "geotextile-fabric",
+    "term": "Geotextile Fabric",
+    "definition": "Permeable material for soil stabilization in landscaping.",
+    "category": "Groundworks",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "gifa-gross-internal-floor-area",
+    "term": "GIFA (Gross Internal Floor Area)",
+    "definition": "Total floor area measured internally at each level.",
+    "category": "Measurement",
+    "aliases": [
+      "Gross Internal Floor Area",
+      "GIFA"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "global-claim",
+    "term": "Global Claim",
+    "definition": "Composite claim without detailed causation evidence.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "gmp-guaranteed-maximum-price",
+    "term": "GMP (Guaranteed Maximum Price)",
+    "definition": "A contract where the contractor is compensated for costs plus a fee, but with a ceiling price.",
+    "category": "Contracts",
+    "aliases": [
+      "Guaranteed Maximum Price",
+      "GMP"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "good-faith-nec",
+    "term": "Good Faith (NEC)",
+    "definition": "Contractual obligation to act cooperatively.",
+    "category": "Contracts",
+    "aliases": [
+      "NEC",
+      "Good Faith"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "goodwin-v-patent-construction",
+    "term": "Goodwin v Patent Construction",
+    "definition": "Leading case on contract interpretation.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "grants-shuttering",
+    "term": "Grants Shuttering",
+    "definition": "Temporary formwork for concrete pours.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "green-roof",
+    "term": "Green Roof",
+    "definition": "Vegetated roof improving insulation and stormwater management.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "ground-bearing-pressure",
+    "term": "Ground Bearing Pressure",
+    "definition": "The load per unit area that the ground can safely support.",
+    "category": "Measurement",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "ground-gas-protection",
+    "term": "Ground Gas Protection",
+    "definition": "Membrane system against radon/methane.",
+    "category": "Groundworks",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "ground-heave",
+    "term": "Ground Heave",
+    "definition": "Upward ground movement causing structural issues.",
+    "category": "Groundworks",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "ground-heave-protection",
+    "term": "Ground Heave Protection",
+    "definition": "Compensatory foundation design for clay soils.",
+    "category": "Groundworks",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "ground-source-heat-pump",
+    "term": "Ground Source Heat Pump",
+    "definition": "System using earth's heat for building heating/cooling.",
+    "category": "Groundworks",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "grouting",
+    "term": "Grouting",
+    "definition": "The process of injecting a pumpable material, like cement slurry, to fill voids or gaps.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "grp-glass-reinforced-polyester",
+    "term": "GRP (Glass Reinforced Polyester)",
+    "definition": "Fibreglass roofing system for flat roofs.",
+    "category": "Acronyms",
+    "aliases": [
+      "Glass Reinforced Polyester",
+      "GRP"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "h-and-s-file",
+    "term": "H&S File",
+    "definition": "CDM requirement documenting building safety information.",
+    "category": "Legal",
+    "aliases": [
+      "H&S"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "hairline-cracking",
+    "term": "Hairline Cracking",
+    "definition": "Thin cracks in brickwork needing remediation.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "hauc-highway-authorities-and-utilities-committee",
+    "term": "HAUC (Highway Authorities & Utilities Committee)",
+    "definition": "UK road works coordination body.",
+    "category": "Acronyms",
+    "aliases": [
+      "Highway Authorities & Utilities Committee",
+      "HAUC"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "hazop-study",
+    "term": "HAZOP Study",
+    "definition": "Hazard and Operability analysis for oil/gas.",
+    "category": "Acronyms",
+    "aliases": [
+      "HAZOP"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "heat-recovery-ventilation-hrv",
+    "term": "Heat Recovery Ventilation (HRV)",
+    "definition": "System recovering heat from exhaust air to preheat fresh air.",
+    "category": "Acronyms",
+    "aliases": [
+      "HRV",
+      "Heat Recovery Ventilation"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "hemcrete",
+    "term": "Hemcrete",
+    "definition": "Hemp-lime biocomposite wall material.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "hgcra-1996",
+    "term": "HGCRA 1996",
+    "definition": "Housing Grants, Construction and Regeneration Act.",
+    "category": "Acronyms",
+    "aliases": [
+      "HGCRA"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "hgcra-section-111",
+    "term": "HGCRA Section 111",
+    "definition": "Withholding notice requirements.",
+    "category": "Acronyms",
+    "aliases": [
+      "HGCRA"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "hoarding",
+    "term": "Hoarding",
+    "definition": "A temporary boarded fence around a construction site for security and safety.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "horizontal-cabling",
+    "term": "Horizontal Cabling",
+    "definition": "Cabling between telecom outlets and patch panels.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "hot-works-permit",
+    "term": "Hot Works Permit",
+    "definition": "A formal document authorising work that involves naked flames, heat, or sparks.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "housing-grants-act-1996",
+    "term": "Housing Grants Act 1996",
+    "definition": "Legislation governing construction payments.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "hse-health-and-safety-executive",
+    "term": "HSE (Health & Safety Executive)",
+    "definition": "UK workplace safety regulator.",
+    "category": "Legal",
+    "aliases": [
+      "Health & Safety Executive",
+      "HSE"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "hv-high-voltage",
+    "term": "HV (High Voltage)",
+    "definition": "In the UK, typically refers to electrical systems operating above 1000 volts AC.",
+    "category": "M&E",
+    "aliases": [
+      "High Voltage",
+      "HV"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "hvac-heating-ventilation-air-conditioning",
+    "term": "HVAC (Heating, Ventilation, Air Conditioning)",
+    "definition": "Mechanical systems for environmental control.",
+    "category": "M&E",
+    "aliases": [
+      "Heating, Ventilation, Air Conditioning",
+      "HVAC"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "hydraulic-conductivity",
+    "term": "Hydraulic Conductivity",
+    "definition": "Measure of water movement through soil/rock.",
+    "category": "Groundworks",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "hydroseeding",
+    "term": "Hydroseeding",
+    "definition": "Spray application of seed, mulch, and fertilizer mixture.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "hydrotest",
+    "term": "Hydrotest",
+    "definition": "Pressure testing pipelines with water.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "i-joist",
+    "term": "I-Joist",
+    "definition": "Engineered timber floor joist with web/flange construction.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "ice-institution-of-civil-engineers",
+    "term": "ICE (Institution of Civil Engineers)",
+    "definition": "Professional body for civil engineers.",
+    "category": "Acronyms",
+    "aliases": [
+      "Institution of Civil Engineers",
+      "ICE"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "idf-intermediate-distribution-frame",
+    "term": "IDF (Intermediate Distribution Frame)",
+    "definition": "Secondary telecom room connecting to MDF.",
+    "category": "Acronyms",
+    "aliases": [
+      "Intermediate Distribution Frame",
+      "IDF"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "implied-term",
+    "term": "Implied Term",
+    "definition": "A contract term that is not explicitly stated but is assumed by law, custom, or the nature of the agreement.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "imputed-knowledge",
+    "term": "Imputed Knowledge",
+    "definition": "Legal presumption of awareness through agents.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "incoterms-accountancy",
+    "term": "Incoterms (Accountancy)",
+    "definition": "International commercial terms for material costs.",
+    "category": "Commercial",
+    "aliases": [
+      "Accountancy",
+      "Incoterms"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "indemnity-clause",
+    "term": "Indemnity Clause",
+    "definition": "Contractual obligation to compensate specific losses.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "infill-development",
+    "term": "Infill Development",
+    "definition": "Construction on vacant urban land within existing areas.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "injunction",
+    "term": "Injunction",
+    "definition": "Court order to prevent/compel specific actions.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "innominate-term",
+    "term": "Innominate Term",
+    "definition": "A contract term where the remedy for breach depends on the severity of its consequences.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "insolvency-act-1986",
+    "term": "Insolvency Act 1986",
+    "definition": "Legislation governing company bankruptcy.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "insulated-concrete-formwork-icf",
+    "term": "Insulated Concrete Formwork (ICF)",
+    "definition": "Polystyrene blocks filled with concrete for walls.",
+    "category": "Acronyms",
+    "aliases": [
+      "ICF",
+      "Insulated Concrete Formwork"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "insulated-render-system",
+    "term": "Insulated Render System",
+    "definition": "External wall insulation with decorative finish.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "interim-valuation",
+    "term": "Interim Valuation",
+    "definition": "Monthly progress payment assessment.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "interstitial-condensation",
+    "term": "Interstitial Condensation",
+    "definition": "Moisture buildup within construction layers.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "interstitial-floor",
+    "term": "Interstitial Floor",
+    "definition": "Service level between occupied floors.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "intumescent-coating",
+    "term": "Intumescent Coating",
+    "definition": "Fireproof paint expanding under heat to protect steel.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "intumescent-paint",
+    "term": "Intumescent Paint",
+    "definition": "Heat-activated coating providing fire protection.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "intumescent-putty",
+    "term": "Intumescent Putty",
+    "definition": "Heat-expanding sealant for small gaps.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "invitation-to-treat",
+    "term": "Invitation to Treat",
+    "definition": "Preliminary negotiation not constituting offer.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "iso-19650",
+    "term": "ISO 19650",
+    "definition": "An international standard for managing information over the whole life cycle of a built asset using BIM.",
+    "category": "Construction Tech",
+    "aliases": [
+      "ISO"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "itt-invitation-to-tender",
+    "term": "ITT (Invitation to Tender)",
+    "definition": "Documentation package inviting formal pricing bids.",
+    "category": "Commercial",
+    "aliases": [
+      "Invitation to Tender",
+      "ITT"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "jack-up-rig",
+    "term": "Jack-Up Rig",
+    "definition": "Mobile offshore platform with extendable legs.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "jacking-frame",
+    "term": "Jacking Frame",
+    "definition": "System for lifting heavy offshore modules.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "jamb",
+    "term": "Jamb",
+    "definition": "Vertical side members of door/window openings.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "jct-amendment-sheet",
+    "term": "JCT Amendment Sheet",
+    "definition": "Document recording contract variations.",
+    "category": "Contracts",
+    "aliases": [
+      "JCT"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "jct-d-and-b-2016",
+    "term": "JCT D&B 2016",
+    "definition": "Design and Build contract published by Joint Contracts Tribunal.",
+    "category": "Contracts",
+    "aliases": [
+      "JCT"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "jct-design-liability",
+    "term": "JCT Design Liability",
+    "definition": "Responsibility for design elements under JCT contracts.",
+    "category": "Contracts",
+    "aliases": [
+      "JCT"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "jct-intermediate-contract-ic",
+    "term": "JCT Intermediate Contract (IC)",
+    "definition": "A standard JCT contract form suitable for medium-sized projects of a relatively straightforward nature.",
+    "category": "Contracts",
+    "aliases": [
+      "IC",
+      "JCT",
+      "JCT Intermediate Contract"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "jct-minor-works-mw",
+    "term": "JCT Minor Works (MW)",
+    "definition": "A standard JCT contract form designed for simple, short-duration projects.",
+    "category": "Contracts",
+    "aliases": [
+      "MW",
+      "JCT",
+      "JCT Minor Works"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "jct-minor-works-2023",
+    "term": "JCT Minor Works 2023",
+    "definition": "Standard contract for small residential projects.",
+    "category": "Contracts",
+    "aliases": [
+      "JCT"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "jct-practice-note-6",
+    "term": "JCT Practice Note 6",
+    "definition": "Guidance on extensions of time.",
+    "category": "Contracts",
+    "aliases": [
+      "JCT"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "joint-sealant",
+    "term": "Joint Sealant",
+    "definition": "Material sealing gaps between components against water/air.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "joist-hanger",
+    "term": "Joist Hanger",
+    "definition": "Metal bracket supporting timber floor joists.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "just-in-time-delivery",
+    "term": "Just-in-Time Delivery",
+    "definition": "Logistics strategy delivering materials precisely when needed.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "jute-backing",
+    "term": "Jute Backing",
+    "definition": "Natural fibre underlay for carpets.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "k-rend",
+    "term": "K Rend",
+    "definition": "Through-coloured silicone render.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "kalzip-standing-seam",
+    "term": "Kalzip Standing Seam",
+    "definition": "Aluminium roofing system with concealed fixings.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "karndean-flooring",
+    "term": "Karndean Flooring",
+    "definition": "Branded flexible vinyl floor covering.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "keating-on-contracts",
+    "term": "Keating on Contracts",
+    "definition": "Authoritative construction law textbook.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "kentledge",
+    "term": "Kentledge",
+    "definition": "Counterweights used in piling operations.",
+    "category": "Groundworks",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "kerbing",
+    "term": "Kerbing",
+    "definition": "Pre-cast concrete road edge units.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "key-performance-indicator-kpi",
+    "term": "Key Performance Indicator (KPI)",
+    "definition": "Measurable value demonstrating effectiveness.",
+    "category": "Acronyms",
+    "aliases": [
+      "KPI",
+      "Key Performance Indicator"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "key-performance-indicator-nec",
+    "term": "Key Performance Indicator (NEC)",
+    "definition": "Measurable value for incentivised targets.",
+    "category": "Contracts",
+    "aliases": [
+      "NEC",
+      "Key Performance Indicator"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "kinematic-envelope",
+    "term": "Kinematic Envelope",
+    "definition": "Railway clearance space for moving trains.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "kingspan-kooltherm",
+    "term": "Kingspan Kooltherm",
+    "definition": "High-performance rigid insulation board.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "kitemark",
+    "term": "Kitemark",
+    "definition": "BSI product certification scheme.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "knee-brace",
+    "term": "Knee Brace",
+    "definition": "Diagonal structural member stabilizing frames.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "knotting-solution",
+    "term": "Knotting Solution",
+    "definition": "Sealer applied to resinous timber knots.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "labc-local-authority-building-control",
+    "term": "LABC (Local Authority Building Control)",
+    "definition": "Council-based building regulation service.",
+    "category": "Acronyms",
+    "aliases": [
+      "Local Authority Building Control",
+      "LABC"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "lads-liquidated-ascertained-damages",
+    "term": "LADs (Liquidated Ascertained Damages)",
+    "definition": "Pre-agreed damages for late completion.",
+    "category": "Contracts",
+    "aliases": [
+      "Liquidated Ascertained Damages",
+      "LADs"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "laitance",
+    "term": "Laitance",
+    "definition": "Weak concrete surface layer requiring removal.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "latent-defect",
+    "term": "Latent Defect",
+    "definition": "Hidden flaw discoverable after practical completion.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "latent-defects-period",
+    "term": "Latent Defects Period",
+    "definition": "12-year liability window for hidden structural issues.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "lateral-restraint-system",
+    "term": "Lateral Restraint System",
+    "definition": "High-rise bracing against wind loads.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "latham-report-1994",
+    "term": "Latham Report 1994",
+    "definition": "Foundation for modern UK construction law.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "lecaboard",
+    "term": "Lecaboard",
+    "definition": "Moisture-resistant cement particle board.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "letter-of-intent-loi",
+    "term": "Letter of Intent (LOI)",
+    "definition": "A non-binding document outlining the main points of a proposed agreement, often issued before a formal contract.",
+    "category": "Contracts",
+    "aliases": [
+      "LOI",
+      "Letter of Intent"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "levelling-compound",
+    "term": "Levelling Compound",
+    "definition": "Self-smoothing floor substrate.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "life-cycle-assessment-lca",
+    "term": "Life Cycle Assessment (LCA)",
+    "definition": "Evaluation of environmental impact over a building's lifespan.",
+    "category": "Acronyms",
+    "aliases": [
+      "LCA",
+      "Life Cycle Assessment"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "lignacite-block",
+    "term": "Lignacite Block",
+    "definition": "Sustainably manufactured concrete block.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "limitation-act-1980",
+    "term": "Limitation Act 1980",
+    "definition": "Statutory time limits for legal claims.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "lintel",
+    "term": "Lintel",
+    "definition": "Structural support over door/window openings.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "lintel-bearing",
+    "term": "Lintel Bearing",
+    "definition": "Minimum 150mm masonry support over openings.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "liquefaction-offshore",
+    "term": "Liquefaction (Offshore)",
+    "definition": "Process of cooling natural gas to liquid state.",
+    "category": "Construction",
+    "aliases": [
+      "Offshore",
+      "Liquefaction"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "liquidated-damages",
+    "term": "Liquidated Damages",
+    "definition": "Pre-agreed delay penalties (JCT) / Delay Damages (FIDIC).",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "living-wall",
+    "term": "Living Wall",
+    "definition": "Vertical garden system attached to building exteriors.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "load-bearing-wall",
+    "term": "Load-Bearing Wall",
+    "definition": "Wall supporting structural weight above it.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "lthw-low-temperature-hot-water",
+    "term": "LTHW (Low-Temperature Hot Water)",
+    "definition": "A heating system that uses water at a temperature below 90°C, typically for radiators and underfloor heating.",
+    "category": "M&E",
+    "aliases": [
+      "Low-Temperature Hot Water",
+      "LTHW"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "lv-low-voltage",
+    "term": "LV (Low Voltage)",
+    "definition": "In the UK, typically refers to electrical systems operating between 50 and 1000 volts AC.",
+    "category": "M&E",
+    "aliases": [
+      "Low Voltage",
+      "LV"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "lvl-laminated-veneer-lumber",
+    "term": "LVL (Laminated Veneer Lumber)",
+    "definition": "Engineered wood product for structural applications.",
+    "category": "Acronyms",
+    "aliases": [
+      "Laminated Veneer Lumber",
+      "LVL"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "lvt-luxury-vinyl-tile",
+    "term": "LVT (Luxury Vinyl Tile)",
+    "definition": "Durable click-lock flooring system.",
+    "category": "Acronyms",
+    "aliases": [
+      "Luxury Vinyl Tile",
+      "LVT"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "m-and-e-co-ordinator",
+    "term": "M&E Co-ordinator",
+    "definition": "Professional managing mechanical/electrical integration.",
+    "category": "M&E",
+    "aliases": [
+      "M&E"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "m-and-e-risers",
+    "term": "M&E Risers",
+    "definition": "Vertical service ducts in tall buildings.",
+    "category": "M&E",
+    "aliases": [
+      "M&E"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "macadam",
+    "term": "Macadam",
+    "definition": "Bitumen-bound aggregate road surface.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "magnesium-oxide-board",
+    "term": "Magnesium Oxide Board",
+    "definition": "Fire-resistant internal lining board.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "marley-eternit-cladding",
+    "term": "Marley Eternit Cladding",
+    "definition": "Fibre cement weatherboard system.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "marshalls-tegula-paving",
+    "term": "Marshalls Tegula Paving",
+    "definition": "Reconstituted stone paving system.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "material-on-site-jct",
+    "term": "Material on Site (JCT)",
+    "definition": "Unfixed materials eligible for interim payment.",
+    "category": "Contracts",
+    "aliases": [
+      "JCT",
+      "Material on Site"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "mcc-motor-control-centre",
+    "term": "MCC (Motor Control Centre)",
+    "definition": "An assembly of one or more enclosed sections with a common power bus, primarily used to control electric motors.",
+    "category": "M&E",
+    "aliases": [
+      "Motor Control Centre",
+      "MCC"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "mediation-protocol",
+    "term": "Mediation Protocol",
+    "definition": "Agreed process for facilitated negotiations.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "mees-minimum-energy-efficiency-standards",
+    "term": "MEES (Minimum Energy Efficiency Standards)",
+    "definition": "Legal requirements for rental properties.",
+    "category": "Legal",
+    "aliases": [
+      "Minimum Energy Efficiency Standards",
+      "MEES"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "metal-stud-partition",
+    "term": "Metal Stud Partition",
+    "definition": "Non-load bearing wall using galvanised steel framing.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "mmc-modern-methods-of-construction",
+    "term": "MMC (Modern Methods of Construction)",
+    "definition": "Innovative building techniques like off-site manufacturing.",
+    "category": "Construction Tech",
+    "aliases": [
+      "Modern Methods of Construction",
+      "MMC"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "modular-construction",
+    "term": "Modular Construction",
+    "definition": "Building method using prefabricated modules.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "modular-service-risers",
+    "term": "Modular Service Risers",
+    "definition": "Prefabricated M&E vertical distribution systems.",
+    "category": "M&E",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "modular-wiring-system",
+    "term": "Modular Wiring System",
+    "definition": "Prefabricated electrical distribution assemblies.",
+    "category": "M&E",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "modulus-of-elasticity",
+    "term": "Modulus of Elasticity",
+    "definition": "A measure of a material's stiffness, indicating its resistance to being deformed elastically when a force is applied.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "moisture-content",
+    "term": "Moisture Content",
+    "definition": "Water percentage in materials relative to dry weight.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "mortar-designation",
+    "term": "Mortar Designation",
+    "definition": "Strength classification (e.g., M4, M6).",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "mpoe-main-point-of-entry",
+    "term": "MPOE (Main Point of Entry)",
+    "definition": "Location where telecom lines enter a building.",
+    "category": "Acronyms",
+    "aliases": [
+      "Main Point of Entry",
+      "MPOE"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "muckaway",
+    "term": "Muckaway",
+    "definition": "Excavated material removal from site.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "mudmat",
+    "term": "Mudmat",
+    "definition": "Subsea foundation for offshore equipment.",
+    "category": "Groundworks",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "mullion",
+    "term": "Mullion",
+    "definition": "Vertical framing member in curtain wall systems.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "murphy-v-brentwood",
+    "term": "Murphy v Brentwood",
+    "definition": "Landmark case on pure economic loss.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "natural-justice",
+    "term": "Natural Justice",
+    "definition": "Fair procedures in dispute resolution.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "nbs-specification",
+    "term": "NBS Specification",
+    "definition": "Standardised tender documentation format.",
+    "category": "Commercial",
+    "aliases": [
+      "NBS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "nec-early-warning",
+    "term": "NEC Early Warning",
+    "definition": "Contractual obligation to notify potential issues.",
+    "category": "Contracts",
+    "aliases": [
+      "NEC"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "nec-option-a",
+    "term": "NEC Option A",
+    "definition": "An NEC contract type: a priced contract with an activity schedule, where the contractor carries the risk of cost overruns.",
+    "category": "Contracts",
+    "aliases": [
+      "NEC"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "nec-option-c",
+    "term": "NEC Option C",
+    "definition": "An NEC contract type: a target contract with an activity schedule, where cost risk is shared between the client and contractor.",
+    "category": "Contracts",
+    "aliases": [
+      "NEC"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "nec4",
+    "term": "NEC4",
+    "definition": "Fourth edition of New Engineering Contract suite.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "nec4-alliance-contract",
+    "term": "NEC4 Alliance Contract",
+    "definition": "Multi-party collaborative contract form.",
+    "category": "Contracts",
+    "aliases": [
+      "NEC4"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "net-contribution-clause",
+    "term": "Net Contribution Clause",
+    "definition": "A contract clause that limits a consultant's liability to the amount for which they are fairly responsible.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "net-zero-carbon",
+    "term": "Net Zero Carbon",
+    "definition": "Building producing no net carbon emissions during operation.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "ngl-natural-gas-liquids",
+    "term": "NGL (Natural Gas Liquids)",
+    "definition": "Liquid hydrocarbons separated from natural gas.",
+    "category": "Acronyms",
+    "aliases": [
+      "Natural Gas Liquids",
+      "NGL"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "nhbc-national-house-building-council",
+    "term": "NHBC (National House-Building Council)",
+    "definition": "New home warranty & insurance provider.",
+    "category": "Legal",
+    "aliases": [
+      "National House-Building Council",
+      "NHBC"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "nhbc-warranty",
+    "term": "NHBC Warranty",
+    "definition": "10-year new build structural insurance.",
+    "category": "Legal",
+    "aliases": [
+      "NHBC"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "nhss-national-highways-sector-scheme",
+    "term": "NHSS (National Highways Sector Scheme)",
+    "definition": "UK road works quality standards.",
+    "category": "Acronyms",
+    "aliases": [
+      "National Highways Sector Scheme",
+      "NHSS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "noggins",
+    "term": "Noggins",
+    "definition": "Horizontal timber braces between wall studs.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "non-combustible-cladding",
+    "term": "Non-Combustible Cladding",
+    "definition": "Post-Grenfell fire safety requirement.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "norm-naturally-occurring-radioactive-material",
+    "term": "NORM (Naturally Occurring Radioactive Material)",
+    "definition": "Oil/gas extraction waste management consideration.",
+    "category": "Acronyms",
+    "aliases": [
+      "Naturally Occurring Radioactive Material",
+      "NORM"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "novation",
+    "term": "Novation",
+    "definition": "The process of substituting an original party to a contract with a new party, transferring all rights and obligations.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "nrm1",
+    "term": "NRM1",
+    "definition": "New Rules of Measurement 1: RICS guidance for the preparation of cost estimates and cost plans.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "nrm2",
+    "term": "NRM2",
+    "definition": "New Rules of Measurement 2: RICS guidance for the detailed measurement and description of building works.",
+    "category": "Measurement",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "nrm3",
+    "term": "NRM3",
+    "definition": "New Rules of Measurement 3: RICS guidance for the measurement and costing of building maintenance works.",
+    "category": "Measurement",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "nrswa-new-roads-and-street-works-act",
+    "term": "NRSWA (New Roads and Street Works Act)",
+    "definition": "UK legislation that coordinates and regulates work carried out on public highways.",
+    "category": "Acronyms",
+    "aliases": [
+      "New Roads and Street Works Act",
+      "NRSWA"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "o-and-m-manual",
+    "term": "O&M Manual",
+    "definition": "Operation and Maintenance manual; a document containing all information required for the operation and upkeep of a building.",
+    "category": "Acronyms",
+    "aliases": [
+      "O&M"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "off-set-account",
+    "term": "Off-Set Account",
+    "definition": "Accounting method for mutual debts.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "off-site-construction",
+    "term": "Off-Site Construction",
+    "definition": "Factory-made components assembled on-site.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "ogee",
+    "term": "Ogee",
+    "definition": "S-shaped moulding profile used in skirting/architraves.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "ohl-overhead-line",
+    "term": "OHL (Overhead Line)",
+    "definition": "Electrified railway power cables.",
+    "category": "Acronyms",
+    "aliases": [
+      "Overhead Line",
+      "OHL"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "open-book-accounting",
+    "term": "Open Book Accounting",
+    "definition": "A transparent accounting method where a client can see all of a contractor's costs and mark-ups.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "os-ordnance-survey",
+    "term": "OS (Ordnance Survey)",
+    "definition": "Mapping service for site location plans.",
+    "category": "Acronyms",
+    "aliases": [
+      "Ordnance Survey",
+      "OS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "osp-outside-plant",
+    "term": "OSP (Outside Plant)",
+    "definition": "External network infrastructure (e.g., poles, conduits, cables).",
+    "category": "Acronyms",
+    "aliases": [
+      "Outside Plant",
+      "OSP"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "otdr-optical-time-domain-reflectometer",
+    "term": "OTDR (Optical Time-Domain Reflectometer)",
+    "definition": "Device testing fiber optic integrity.",
+    "category": "Acronyms",
+    "aliases": [
+      "Optical Time-Domain Reflectometer",
+      "OTDR"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "outrigger-truss",
+    "term": "Outrigger Truss",
+    "definition": "High-rise structural stabilisation system.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "overage-clause",
+    "term": "Overage Clause",
+    "definition": "Payment triggered by future events/sales.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "overcladding",
+    "term": "Overcladding",
+    "definition": "New cladding layer over existing facade.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "oversite-concrete",
+    "term": "Oversite Concrete",
+    "definition": "Floor slab preparation layer.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "p-way-permanent-way",
+    "term": "P-way (Permanent Way)",
+    "definition": "Railway track and infrastructure.",
+    "category": "Construction",
+    "aliases": [
+      "Permanent Way",
+      "P-way"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "pain-gain-share-mechanism",
+    "term": "Pain/Gain Share Mechanism",
+    "definition": "Risk/reward allocation in target cost contracts.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "parent-company-guarantee-pcg",
+    "term": "Parent Company Guarantee (PCG)",
+    "definition": "A guarantee from a contractor's parent company to fulfil the contractor's obligations if they default.",
+    "category": "Acronyms",
+    "aliases": [
+      "PCG",
+      "Parent Company Guarantee"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "part-36-offer",
+    "term": "Part 36 Offer",
+    "definition": "Formal settlement offer with cost consequences.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "part-8-proceedings",
+    "term": "Part 8 Proceedings",
+    "definition": "Alternative High Court claims procedure.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "party-wall-act-1996",
+    "term": "Party Wall Act 1996",
+    "definition": "Legislation governing shared structures.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "party-wall-surveyor",
+    "term": "Party Wall Surveyor",
+    "definition": "Appointed specialist under Party Wall Act.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "pas-1192",
+    "term": "PAS 1192",
+    "definition": "A former suite of British standards for information management using BIM, now superseded by ISO 19650.",
+    "category": "Construction Tech",
+    "aliases": [
+      "PAS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "passivhaus",
+    "term": "Passivhaus",
+    "definition": "Rigorous energy efficiency building standard.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "pat-testing-portable-appliance-testing",
+    "term": "PAT Testing (Portable Appliance Testing)",
+    "definition": "Electrical safety check on movable equipment.",
+    "category": "M&E",
+    "aliases": [
+      "Portable Appliance Testing",
+      "PAT",
+      "PAT Testing"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "pavement-quality-concrete",
+    "term": "Pavement Quality Concrete",
+    "definition": "High-spec road surface material.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "pay-when-paid-clause",
+    "term": "Pay When Paid Clause",
+    "definition": "A clause making payment to a subcontractor conditional on the main contractor being paid first (now largely unenforceable in the UK).",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "payless-notice",
+    "term": "Payless Notice",
+    "definition": "Employer's formal notification of intent to reduce payment, per HGCRA 1996.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "payment-certificate",
+    "term": "Payment Certificate",
+    "definition": "Formal approval of amounts due (JCT) = Interim Payment Certificate (FIDIC).",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "pbx-private-branch-exchange",
+    "term": "PBX (Private Branch Exchange)",
+    "definition": "Private telephone network system.",
+    "category": "Acronyms",
+    "aliases": [
+      "Private Branch Exchange",
+      "PBX"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "pcsa-pre-construction-services-agreement",
+    "term": "PCSA (Pre-Construction Services Agreement)",
+    "definition": "Early contractor involvement contract.",
+    "category": "Contracts",
+    "aliases": [
+      "Pre-Construction Services Agreement",
+      "PCSA"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "penetration-seal",
+    "term": "Penetration Seal",
+    "definition": "Firestop system for cable/pipe openings.",
+    "category": "M&E",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "performance-bond-fidic",
+    "term": "Performance Bond (FIDIC)",
+    "definition": "Security for contractor's obligations.",
+    "category": "Contracts",
+    "aliases": [
+      "FIDIC",
+      "Performance Bond"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "permeable-pavement",
+    "term": "Permeable Pavement",
+    "definition": "Surface allowing water infiltration to reduce runoff.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "permeable-paving",
+    "term": "Permeable Paving",
+    "definition": "Surface allowing water infiltration to reduce runoff.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "pfa-pulverised-fuel-ash",
+    "term": "PFA (Pulverised Fuel Ash)",
+    "definition": "Coal byproduct used in concrete mixes.",
+    "category": "Acronyms",
+    "aliases": [
+      "Pulverised Fuel Ash",
+      "PFA"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "phenolic-foam-board",
+    "term": "Phenolic Foam Board",
+    "definition": "High-performance rigid insulation with fire resistance.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "photovoltaic-glazing",
+    "term": "Photovoltaic Glazing",
+    "definition": "Glass integrated with solar cells for energy generation.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "pile-cap-offshore",
+    "term": "Pile Cap (Offshore)",
+    "definition": "Foundation structure for oil platforms.",
+    "category": "Groundworks",
+    "aliases": [
+      "Offshore",
+      "Pile Cap"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "piling-mat",
+    "term": "Piling Mat",
+    "definition": "A stable platform of compacted stone or concrete designed to support heavy piling rigs.",
+    "category": "Groundworks",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "pir-passive-infrared-sensor",
+    "term": "PIR (Passive Infrared) Sensor",
+    "definition": "Motion detection for security/lighting.",
+    "category": "Acronyms",
+    "aliases": [
+      "Passive Infrared",
+      "PIR",
+      "PIR Sensor"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "plasterboard-bead",
+    "term": "Plasterboard Bead",
+    "definition": "Reinforced edge protection for board joints.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "plenum-space",
+    "term": "Plenum Space",
+    "definition": "Air-handling area requiring fire-safe materials.",
+    "category": "Measurement",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "plenum-rated-cable",
+    "term": "Plenum-rated Cable",
+    "definition": "Fire-safe cabling for air-handling spaces.",
+    "category": "M&E",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "poe-power-over-ethernet",
+    "term": "PoE (Power over Ethernet)",
+    "definition": "Power delivery via data cables.",
+    "category": "Construction",
+    "aliases": [
+      "Power over Ethernet",
+      "PoE"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "polyurethane-resin-flooring",
+    "term": "Polyurethane Resin Flooring",
+    "definition": "Chemical-resistant industrial floor coating.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "post-tensioning",
+    "term": "Post-Tensioning",
+    "definition": "Concrete reinforcement using high-strength steel tendons.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "pqq-pre-qualification-questionnaire",
+    "term": "PQQ (Pre-Qualification Questionnaire)",
+    "definition": "Supplier assessment before tender invitation.",
+    "category": "Commercial",
+    "aliases": [
+      "Pre-Qualification Questionnaire",
+      "PQQ"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "practical-completion",
+    "term": "Practical Completion",
+    "definition": "The contractual stage when the works are complete, except for minor defects, and can be handed over to the client.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "pre-start-meeting",
+    "term": "Pre-start Meeting",
+    "definition": "A meeting held before work commences on site to finalise arrangements and responsibilities.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "preliminaries-prelims",
+    "term": "Preliminaries (Prelims)",
+    "definition": "Time-related site overheads (scaffolding, site cabins, utilities).",
+    "category": "Construction",
+    "aliases": [
+      "Prelims",
+      "Preliminaries"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "pressure-equalization",
+    "term": "Pressure Equalization",
+    "definition": "Design principle to manage wind and water in facades.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "prime-cost-sum-pc-sum",
+    "term": "Prime Cost Sum (PC Sum)",
+    "definition": "Allowance for specialist work, adjusted for actual costs.",
+    "category": "Commercial",
+    "aliases": [
+      "PC Sum",
+      "Prime Cost Sum"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "principal-contractor",
+    "term": "Principal Contractor",
+    "definition": "A key role under CDM 2015 responsible for managing health and safety during the construction phase.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "principal-designer",
+    "term": "Principal Designer",
+    "definition": "A key role under CDM 2015 responsible for coordinating health and safety during the pre-construction phase.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "privity-of-contract",
+    "term": "Privity of Contract",
+    "definition": "A legal doctrine stating that only the parties to a contract can sue to enforce their rights or claim damages under it.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "professional-indemnity-insurance-pii",
+    "term": "Professional Indemnity Insurance (PII)",
+    "definition": "Insurance that covers a professional against claims for loss or damage arising from negligent advice or services.",
+    "category": "Legal",
+    "aliases": [
+      "PII",
+      "Professional Indemnity Insurance"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "programme-of-works",
+    "term": "Programme of Works",
+    "definition": "A detailed schedule outlining the sequence and timing of all activities required to complete a project.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "propping",
+    "term": "Propping",
+    "definition": "A temporary support system used to hold up a structure, such as a wall or floor, during construction or alteration.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "provisional-sum",
+    "term": "Provisional Sum",
+    "definition": "Budget for undefined work, later replaced with actual costs.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "public-liability-insurance",
+    "term": "Public Liability Insurance",
+    "definition": "Insurance that covers claims from third parties for injury or property damage caused by business activities.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "puwer",
+    "term": "PUWER",
+    "definition": "Provision and Use of Work Equipment Regulations; UK law ensuring work equipment is safe and suitable.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "qos-quality-of-service",
+    "term": "QoS (Quality of Service)",
+    "definition": "Network traffic prioritization.",
+    "category": "Construction",
+    "aliases": [
+      "Quality of Service",
+      "QoS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "qra-quantitative-risk-assessment",
+    "term": "QRA (Quantitative Risk Assessment)",
+    "definition": "Oil/gas project safety evaluation method.",
+    "category": "Acronyms",
+    "aliases": [
+      "Quantitative Risk Assessment",
+      "QRA"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "qs-quantity-surveyor",
+    "term": "QS (Quantity Surveyor)",
+    "definition": "Professional managing construction costs and contracts.",
+    "category": "Measurement",
+    "aliases": [
+      "Quantity Surveyor",
+      "QS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "qsas-quality-scheme-for-ready-mixed-concrete",
+    "term": "QSAS (Quality Scheme for Ready Mixed Concrete)",
+    "definition": "Material certification programme.",
+    "category": "Acronyms",
+    "aliases": [
+      "Quality Scheme for Ready Mixed Concrete",
+      "QSAS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "quadrant-plate",
+    "term": "Quadrant Plate",
+    "definition": "Railway junction component guiding wheels.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "quality-assurance-qa",
+    "term": "Quality Assurance (QA)",
+    "definition": "System ensuring construction meets specified standards.",
+    "category": "Acronyms",
+    "aliases": [
+      "QA",
+      "Quality Assurance"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "quality-control-qc",
+    "term": "Quality Control (QC)",
+    "definition": "The process of inspecting and testing work to ensure it meets the specified quality standards.",
+    "category": "Acronyms",
+    "aliases": [
+      "QC",
+      "Quality Control"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "quantified-demand",
+    "term": "Quantified Demand",
+    "definition": "Formal payment claim under HGCRA 1996.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "quantum-meruit",
+    "term": "Quantum Meruit",
+    "definition": "Reasonable payment for work without fixed price.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "quantum-valebant",
+    "term": "Quantum Valebant",
+    "definition": "Reasonable value of goods/services provided.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "quirk-bead",
+    "term": "Quirk Bead",
+    "definition": "Moulding with recessed groove for plaster transitions.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "quoin-bricklaying",
+    "term": "Quoin (Bricklaying)",
+    "definition": "Cornerstone or decorative brickwork feature.",
+    "category": "Construction",
+    "aliases": [
+      "Bricklaying",
+      "Quoin"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "rain-screen-cladding",
+    "term": "Rain Screen Cladding",
+    "definition": "External wall system managing rainwater and thermal performance.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "rainscreen-cladding",
+    "term": "Rainscreen Cladding",
+    "definition": "Ventilated external wall system.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "raised-access-floor",
+    "term": "Raised Access Floor",
+    "definition": "Elevated floor system for cabling/services.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "rams-risk-assessment-and-method-statement",
+    "term": "RAMS (Risk Assessment and Method Statement)",
+    "definition": "A document detailing how a specific work task will be carried out safely.",
+    "category": "Acronyms",
+    "aliases": [
+      "Risk Assessment and Method Statement",
+      "RAMS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "rcd-residual-current-device",
+    "term": "RCD (Residual Current Device)",
+    "definition": "Life-saving electrical trip switch.",
+    "category": "M&E",
+    "aliases": [
+      "Residual Current Device",
+      "RCD"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "re-measurement-contract",
+    "term": "Re-measurement Contract",
+    "definition": "Payment based on actual quantities executed.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "reasonable-skill-and-care",
+    "term": "Reasonable Skill and Care",
+    "definition": "The legal standard of care expected from a professional in performing their duties.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "rectification-period",
+    "term": "Rectification Period",
+    "definition": "The period after practical completion during which a contractor is obliged to return to site to fix any defects.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "reinforced-concrete-core",
+    "term": "Reinforced Concrete Core",
+    "definition": "Central stability element in skyscrapers.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "repudiation",
+    "term": "Repudiation",
+    "definition": "Fundamental breach entreating termination.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "repudiation-of-contract",
+    "term": "Repudiation of Contract",
+    "definition": "Treating a contract as void due to fundamental breach.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "resilient-bar",
+    "term": "Resilient Bar",
+    "definition": "Soundproofing drylining component.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "retention",
+    "term": "Retention",
+    "definition": "5% withheld (JCT) / 3% (FIDIC) against defects.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "retention-bond",
+    "term": "Retention Bond",
+    "definition": "Insurance alternative to cash retention withholding.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "retention-bond-jct",
+    "term": "Retention Bond (JCT)",
+    "definition": "Alternative to cash retention withholding.",
+    "category": "Contracts",
+    "aliases": [
+      "JCT",
+      "Retention Bond"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "retention-percentage",
+    "term": "Retention Percentage",
+    "definition": "Typically 3-5% withheld against defects.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "retrofit",
+    "term": "Retrofit",
+    "definition": "Upgrading existing buildings for improved performance.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "rfi-request-for-information",
+    "term": "RFI (Request for Information)",
+    "definition": "Formal query during tender process for clarification.",
+    "category": "Commercial",
+    "aliases": [
+      "Request for Information",
+      "RFI"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "rics-royal-institution-of-chartered-surveyors",
+    "term": "RICS (Royal Institution of Chartered Surveyors)",
+    "definition": "Global professional body for surveyors.",
+    "category": "Acronyms",
+    "aliases": [
+      "Royal Institution of Chartered Surveyors",
+      "RICS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "rics-conflict-avoidance-process",
+    "term": "RICS Conflict Avoidance Process",
+    "definition": "Early intervention dispute resolution.",
+    "category": "Acronyms",
+    "aliases": [
+      "RICS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "riddor",
+    "term": "RIDDOR",
+    "definition": "Reporting of Injuries, Diseases and Dangerous Occurrences Regulations; UK law requiring employers to report serious workplace incidents.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "rigging-loft",
+    "term": "Rigging Loft",
+    "definition": "High-rise area for lifting equipment storage.",
+    "category": "Measurement",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "risk-register",
+    "term": "Risk Register",
+    "definition": "Documented potential cost/schedule impacts.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "road-markings-thermoplastic",
+    "term": "Road Markings Thermoplastic",
+    "definition": "Melt-applied highway line paint.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "road-restraint-system",
+    "term": "Road Restraint System",
+    "definition": "Safety barrier and crash cushion systems.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "roadbase",
+    "term": "Roadbase",
+    "definition": "Bituminous binder course in pavement construction.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "rockpanel-cladding",
+    "term": "Rockpanel Cladding",
+    "definition": "Stone wool-based facade board.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "roi-roofing-industry-alliance",
+    "term": "ROI (Roofing Industry Alliance)",
+    "definition": "UK roofing standards body.",
+    "category": "Acronyms",
+    "aliases": [
+      "Roofing Industry Alliance",
+      "ROI"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "s-and-c-switches-and-crossings",
+    "term": "S&C (Switches & Crossings)",
+    "definition": "Railway track junction components.",
+    "category": "Acronyms",
+    "aliases": [
+      "Switches & Crossings",
+      "S&C"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "sandtoft-pantile",
+    "term": "Sandtoft Pantile",
+    "definition": "S-shaped concrete roofing tile.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "sap-standard-assessment-procedure",
+    "term": "SAP (Standard Assessment Procedure)",
+    "definition": "UK home energy rating methodology.",
+    "category": "Acronyms",
+    "aliases": [
+      "Standard Assessment Procedure",
+      "SAP"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "sap-rating",
+    "term": "SAP Rating",
+    "definition": "UK measure of building energy performance.",
+    "category": "Acronyms",
+    "aliases": [
+      "SAP"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "sarking",
+    "term": "Sarking",
+    "definition": "Under-roof layer (board or membrane) for weather protection.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "sc-connector",
+    "term": "SC Connector",
+    "definition": "Standard fiber optic connector.",
+    "category": "Acronyms",
+    "aliases": [
+      "SC"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "scada",
+    "term": "SCADA",
+    "definition": "Supervisory Control and Data Acquisition; an industrial control system used to monitor and manage large-scale processes.",
+    "category": "Construction Tech",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "scott-schedule",
+    "term": "Scott Schedule",
+    "definition": "Tabulated defects list in disputes.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "screed",
+    "term": "Screed",
+    "definition": "Levelling layer for floor finishes.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "screed-floating",
+    "term": "Screed Floating",
+    "definition": "Levelling underfloor finish to receive floor coverings.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "secret-fix-trapezoidal-roofing",
+    "term": "Secret Fix Trapezoidal Roofing",
+    "definition": "Concealed fastener metal roof system.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "section-104-agreement",
+    "term": "Section 104 Agreement",
+    "definition": "A legal agreement under the Water Industry Act 1991 for a water company to adopt a newly constructed sewer system.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "section-106-agreement",
+    "term": "Section 106 Agreement",
+    "definition": "A legal agreement between a developer and a local planning authority to mitigate the impact of a new development.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "section-111-notice",
+    "term": "Section 111 Notice",
+    "definition": "Statutory requirement to issue payment withholding details.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "section-278-agreement",
+    "term": "Section 278 Agreement",
+    "definition": "Highway works legal agreement with local authority.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "section-38-agreement",
+    "term": "Section 38 Agreement",
+    "definition": "Highway adoption legal process.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "section-73-application",
+    "term": "Section 73 Application",
+    "definition": "Planning consent for scheme variations.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "sectional-completion",
+    "term": "Sectional Completion",
+    "definition": "Phased handover of project elements (JCT).",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "sectional-completion-jct",
+    "term": "Sectional Completion (JCT)",
+    "definition": "Phased handover of project elements.",
+    "category": "Contracts",
+    "aliases": [
+      "JCT",
+      "Sectional Completion"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "serial-adjudication",
+    "term": "Serial Adjudication",
+    "definition": "Multiple adjudications on related disputes.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "service-integration-ceiling",
+    "term": "Service Integration Ceiling",
+    "definition": "Coordinated M&E/architectural suspended ceiling.",
+    "category": "M&E",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "set-off",
+    "term": "Set-Off",
+    "definition": "A legal right for a party to deduct an amount from a payment due to another party to cover a separate claim.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "sfs-structural-framing-system",
+    "term": "SFS (Structural Framing System)",
+    "definition": "Light gauge steel internal wall framing.",
+    "category": "Acronyms",
+    "aliases": [
+      "Structural Framing System",
+      "SFS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "sheep-s-wool-insulation",
+    "term": "Sheep's Wool Insulation",
+    "definition": "Natural thermal and acoustic insulation material.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "shoring",
+    "term": "Shoring",
+    "definition": "A temporary support system used to prevent the collapse of excavations, trenches, or unstable structures.",
+    "category": "Groundworks",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "sikafloor-coating",
+    "term": "Sikafloor Coating",
+    "definition": "Decorative epoxy floor finish.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "sil-safety-integrity-level",
+    "term": "SIL (Safety Integrity Level)",
+    "definition": "Oil/gas system safety performance measure.",
+    "category": "Acronyms",
+    "aliases": [
+      "Safety Integrity Level",
+      "SIL"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "site-diary",
+    "term": "Site Diary",
+    "definition": "A daily record of activities, progress, weather conditions, and notable events on a construction site.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "smf-single-mode-fiber",
+    "term": "SMF (Single-Mode Fiber)",
+    "definition": "Fiber optic cable for long-distance transmission.",
+    "category": "M&E",
+    "aliases": [
+      "Single-Mode Fiber",
+      "SMF"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "smm7",
+    "term": "SMM7",
+    "definition": "Former Standard Method of Measurement (superseded by NRM).",
+    "category": "Measurement",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "smoke-curtain",
+    "term": "Smoke Curtain",
+    "definition": "Deployable barrier containing smoke during fires.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "smoke-seal",
+    "term": "Smoke Seal",
+    "definition": "Material preventing smoke migration.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "snagging-list",
+    "term": "Snagging List",
+    "definition": "A list of minor defects or outstanding items identified upon inspection of a completed project.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "soft-landings",
+    "term": "Soft Landings",
+    "definition": "Process ensuring buildings perform as intended post-handover.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "soft-strip",
+    "term": "Soft Strip",
+    "definition": "The process of removing non-structural elements from a building prior to demolition or major refurbishment.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "spalling",
+    "term": "Spalling",
+    "definition": "The flaking, chipping, or breaking away of the surface of concrete, brick, or stone.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "spandrel-panel",
+    "term": "Spandrel Panel",
+    "definition": "Opaque curtain wall section concealing floor slabs.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "spider-fitting",
+    "term": "Spider Fitting",
+    "definition": "Four-arm connector for point-supported glazing systems.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "sprinkler-system",
+    "term": "Sprinkler System",
+    "definition": "An active fire protection system consisting of a network of pipes and sprinkler heads that discharge water when fire is detected.",
+    "category": "M&E",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "star-rate",
+    "term": "Star Rate",
+    "definition": "Agreed hourly rate for unforeseen work (labour + plant).",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "sto-therm",
+    "term": "Sto Therm",
+    "definition": "External wall insulation system.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "structural-silicone-glazing",
+    "term": "Structural Silicone Glazing",
+    "definition": "Bonding glass to frames using high-strength silicone.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "sub-base",
+    "term": "Sub-base",
+    "definition": "Compacted aggregate layer beneath road surface.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "subrogation",
+    "term": "Subrogation",
+    "definition": "The legal right of an insurer to pursue a third party that caused an insurance loss to the insured.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "substrate",
+    "term": "Substrate",
+    "definition": "Underlying layer for material application.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "suds-sustainable-urban-drainage-systems",
+    "term": "SUDS (Sustainable Urban Drainage Systems)",
+    "definition": "A collection of water management practices that mimic natural drainage to manage rainfall runoff.",
+    "category": "Acronyms",
+    "aliases": [
+      "Sustainable Urban Drainage Systems",
+      "SUDS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "tactile-paving",
+    "term": "Tactile Paving",
+    "definition": "Pedestrian surface indicators for visually impaired.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "tadelakt-plaster",
+    "term": "Tadelakt Plaster",
+    "definition": "Moroccan-inspired waterproof lime finish.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "take-off",
+    "term": "Take Off",
+    "definition": "Quantifying materials from drawings for BoQ.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "tanalised-timber",
+    "term": "Tanalised Timber",
+    "definition": "Pressure-treated wood for external use.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "target-cost",
+    "term": "Target Cost",
+    "definition": "A budget agreed between a client and contractor, with mechanisms for sharing any savings or overspends.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "tcc-technology-and-construction-court",
+    "term": "TCC (Technology & Construction Court)",
+    "definition": "Specialist High Court division.",
+    "category": "Acronyms",
+    "aliases": [
+      "Technology & Construction Court",
+      "TCC"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "temporary-works",
+    "term": "Temporary Works",
+    "definition": "Structures used during construction (e.g., scaffolding).",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "tender",
+    "term": "Tender",
+    "definition": "Formal offer to carry out works at stated prices.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "tender-addendum",
+    "term": "Tender Addendum",
+    "definition": "Formal amendment to tender documents.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "tender-opening-meeting",
+    "term": "Tender Opening Meeting",
+    "definition": "Formal commencement of bid evaluation.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "tender-report",
+    "term": "Tender Report",
+    "definition": "Client-side bid analysis document.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "tender-returnables",
+    "term": "Tender Returnables",
+    "definition": "Required submission documents with bids.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "tensile-fabric-structure",
+    "term": "Tensile Fabric Structure",
+    "definition": "Architectural membrane system for shade/cover.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "tensile-strength",
+    "term": "Tensile Strength",
+    "definition": "The capacity of a material, like steel, to withstand loads that tend to elongate it.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "termination-for-convenience",
+    "term": "Termination for Convenience",
+    "definition": "Contract cancellation without breach.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "thermal-break",
+    "term": "Thermal Break",
+    "definition": "Insulating barrier reducing heat transfer in metal framing.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "thermal-bridging",
+    "term": "Thermal Bridging",
+    "definition": "Heat transfer through conductive building elements.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "through-penetration-firestop-system",
+    "term": "Through-Penetration Firestop System",
+    "definition": "Sealed assembly maintaining fire resistance.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "time-risk-allowance-nec",
+    "term": "Time Risk Allowance (NEC)",
+    "definition": "Contingency in programme for uncertainties.",
+    "category": "Contracts",
+    "aliases": [
+      "NEC",
+      "Time Risk Allowance"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "tolent-clause",
+    "term": "Tolent Clause",
+    "definition": "Contract term allocating adjudication costs.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "toolbox-talk",
+    "term": "Toolbox Talk",
+    "definition": "A short, informal safety meeting held on site to discuss a specific health and safety topic.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "top-down-construction",
+    "term": "Top Down Construction",
+    "definition": "High-rise building method constructing upper floors first.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "topiary",
+    "term": "Topiary",
+    "definition": "Art of shaping live plants into ornamental forms.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "tort-law",
+    "term": "Tort Law",
+    "definition": "Civil wrongs impacting construction claims.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "tort-of-negligence",
+    "term": "Tort of Negligence",
+    "definition": "Breach of duty causing foreseeable loss.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "tpws-train-protection-and-warning-system",
+    "term": "TPWS (Train Protection & Warning System)",
+    "definition": "Automatic UK train braking system.",
+    "category": "Acronyms",
+    "aliases": [
+      "Train Protection & Warning System",
+      "TPWS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "trapezoidal-cable-tray",
+    "term": "Trapezoidal Cable Tray",
+    "definition": "Rigid metal support system for electrical trunking.",
+    "category": "M&E",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "trapezoidal-composite-panel",
+    "term": "Trapezoidal Composite Panel",
+    "definition": "Insulated metal sandwich cladding system.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "trapezoidal-liner-tray",
+    "term": "Trapezoidal Liner Tray",
+    "definition": "Secondary support layer beneath metal roofing.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "trapezoidal-sheeting",
+    "term": "Trapezoidal Sheeting",
+    "definition": "Corrugated metal roofing/cladding with trapezoidal profile.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "trapezoidal-soffit-system",
+    "term": "Trapezoidal Soffit System",
+    "definition": "Underside cladding with concealed fixings.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "trespa-meteon",
+    "term": "Trespa Meteon",
+    "definition": "High-pressure decorative facade panel.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "trussed-rafter",
+    "term": "Trussed Rafter",
+    "definition": "Engineered timber roof support system.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "u-value",
+    "term": "U-value",
+    "definition": "Measure of thermal transmittance in building elements.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "uhf-underfloor-heating",
+    "term": "UHF (Underfloor Heating)",
+    "definition": "Hydronic or electric heating systems beneath floor finishes.",
+    "category": "M&E",
+    "aliases": [
+      "Underfloor Heating",
+      "UHF"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "uk-construction-products-regulation",
+    "term": "UK Construction Products Regulation",
+    "definition": "Post-Brexit material standards framework.",
+    "category": "Acronyms",
+    "aliases": [
+      "UK"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "ul-certification",
+    "term": "UL Certification",
+    "definition": "Firestop system compliance standard.",
+    "category": "Acronyms",
+    "aliases": [
+      "UL"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "umbilical-offshore",
+    "term": "Umbilical (Offshore)",
+    "definition": "Subsea control/power cables for platforms.",
+    "category": "Construction",
+    "aliases": [
+      "Offshore",
+      "Umbilical"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "umbilical-termination-assembly",
+    "term": "Umbilical Termination Assembly",
+    "definition": "Subsea equipment connection point.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "underfloor-heating",
+    "term": "Underfloor Heating",
+    "definition": "Heating system installed beneath floor surfaces.",
+    "category": "M&E",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "unfair-contract-terms-act-1977",
+    "term": "Unfair Contract Terms Act 1977",
+    "definition": "Legislation regulating exclusion clauses.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "unfixed-materials",
+    "term": "Unfixed Materials",
+    "definition": "Goods on site not yet incorporated into works.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "uniclass",
+    "term": "Uniclass",
+    "definition": "UK construction classification system.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "unitized-curtain-wall",
+    "term": "Unitized Curtain Wall",
+    "definition": "Prefabricated glazing panels installed as complete units.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "unliquidated-damages",
+    "term": "Unliquidated Damages",
+    "definition": "Unquantified compensation for breach.",
+    "category": "Contracts",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "valuation",
+    "term": "Valuation",
+    "definition": "Periodic assessment of work completed for payment purposes.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "valuation-date-jct",
+    "term": "Valuation Date (JCT)",
+    "definition": "Specified date for interim payment calculations.",
+    "category": "Contracts",
+    "aliases": [
+      "JCT",
+      "Valuation Date"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "value-engineering",
+    "term": "Value Engineering",
+    "definition": "Cost optimisation without compromising quality.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "value-engineering-workshop",
+    "term": "Value Engineering Workshop",
+    "definition": "Collaborative cost optimisation process.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "vapour-barrier",
+    "term": "Vapour Barrier",
+    "definition": "Moisture control layer in floor builds.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "variation-jct",
+    "term": "Variation (JCT)",
+    "definition": "Change to scope/quality approved via Architect's Instruction.",
+    "category": "Contracts",
+    "aliases": [
+      "JCT",
+      "Variation"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "variation-order-fidic",
+    "term": "Variation Order (FIDIC)",
+    "definition": "Engineer's instruction for scope changes under Clause 13.",
+    "category": "Contracts",
+    "aliases": [
+      "FIDIC",
+      "Variation Order"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "vent-stack",
+    "term": "Vent Stack",
+    "definition": "High-rise building smoke extraction system.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "ventilation-rate",
+    "term": "Ventilation Rate",
+    "definition": "Fresh air supply rate measured in air changes per hour.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "ventilation-shaft-rail",
+    "term": "Ventilation Shaft (Rail)",
+    "definition": "Underground air management infrastructure.",
+    "category": "Construction",
+    "aliases": [
+      "Rail",
+      "Ventilation Shaft"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "vesting-certificate",
+    "term": "Vesting Certificate",
+    "definition": "Document confirming transfer of material/plant ownership to the client.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "vexatious-litigant",
+    "term": "Vexatious Litigant",
+    "definition": "Party pursuing claims without merit.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "vicarious-liability",
+    "term": "Vicarious Liability",
+    "definition": "Responsibility for subcontractor actions.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "vision-glass",
+    "term": "Vision Glass",
+    "definition": "Transparent glazing areas in curtain walls.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "vlan-virtual-lan",
+    "term": "VLAN (Virtual LAN)",
+    "definition": "Network segmentation for traffic control.",
+    "category": "Acronyms",
+    "aliases": [
+      "Virtual LAN",
+      "VLAN"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "voc-volatile-organic-compound",
+    "term": "VOC (Volatile Organic Compound)",
+    "definition": "Regulated chemicals in paints/adhesives.",
+    "category": "Acronyms",
+    "aliases": [
+      "Volatile Organic Compound",
+      "VOC"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "voc-volatile-organic-compounds",
+    "term": "VOC (Volatile Organic Compounds)",
+    "definition": "Regulated chemicals in paints/adhesives.",
+    "category": "Acronyms",
+    "aliases": [
+      "Volatile Organic Compounds",
+      "VOC"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "voc-free-paint",
+    "term": "VOC-Free Paint",
+    "definition": "Coating without volatile organic compounds.",
+    "category": "Acronyms",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "wainscoting",
+    "term": "Wainscoting",
+    "definition": "Decorative wood panelling on lower wall sections.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "waiver",
+    "term": "Waiver",
+    "definition": "Voluntary relinquishment of legal right.",
+    "category": "Legal",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "wbs-work-breakdown-structure",
+    "term": "WBS (Work Breakdown Structure)",
+    "definition": "Hierarchical decomposition of project scope.",
+    "category": "Acronyms",
+    "aliases": [
+      "Work Breakdown Structure",
+      "WBS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "wet-rot",
+    "term": "Wet Rot",
+    "definition": "Timber decay from prolonged moisture exposure.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "whole-life-costing",
+    "term": "Whole Life Costing",
+    "definition": "Evaluation of total building costs over its lifespan.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "wicket-gate-rail",
+    "term": "Wicket Gate (Rail)",
+    "definition": "Small pedestrian access in station barriers.",
+    "category": "Construction",
+    "aliases": [
+      "Rail",
+      "Wicket Gate"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "wicket-keeper-rail",
+    "term": "Wicket Keeper (Rail)",
+    "definition": "Operational staff managing track access.",
+    "category": "Construction",
+    "aliases": [
+      "Rail",
+      "Wicket Keeper"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "wind-load",
+    "term": "Wind Load",
+    "definition": "Force exerted by wind on structures during design.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "wind-load-analysis",
+    "term": "Wind Load Analysis",
+    "definition": "Engineering study for curtain wall wind resistance.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "without-prejudice",
+    "term": "Without Prejudice",
+    "definition": "Protected communication in settlement talks.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "without-prejudice-save-as-to-costs",
+    "term": "Without Prejudice Save as to Costs",
+    "definition": "Protected communication shown after judgment.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "work-package",
+    "term": "Work Package",
+    "definition": "Defined scope portion for subcontractor pricing.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "wrap-waste-and-resources-action-programme",
+    "term": "WRAP (Waste & Resources Action Programme)",
+    "definition": "Organisation promoting resource efficiency.",
+    "category": "Acronyms",
+    "aliases": [
+      "Waste & Resources Action Programme",
+      "WRAP"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "wras-approval",
+    "term": "WRAS Approval",
+    "definition": "Water fittings regulations compliance.",
+    "category": "Legal",
+    "aliases": [
+      "WRAS"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "x-brace-damper",
+    "term": "X-Brace Damper",
+    "definition": "Seismic energy dissipation in tall structures.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "x-bracing",
+    "term": "X-Bracing",
+    "definition": "Diagonal structural supports in tall buildings.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "xeriscaping",
+    "term": "Xeriscaping",
+    "definition": "Water-efficient landscaping using drought-resistant plants.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "xylene",
+    "term": "Xylene",
+    "definition": "Solvent used in paint and coating applications.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "xylophage",
+    "term": "Xylophage",
+    "definition": "Wood-boring insect requiring treatment.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "y-value-sound-insulation",
+    "term": "Y-value (Sound Insulation)",
+    "definition": "Acoustic performance metric in flats.",
+    "category": "Construction",
+    "aliases": [
+      "Sound Insulation",
+      "Y-value"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "yarding-offshore",
+    "term": "Yarding (Offshore)",
+    "definition": "Temporary storage of materials on platform decks.",
+    "category": "Construction",
+    "aliases": [
+      "Offshore",
+      "Yarding"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "yellow-book-fidic",
+    "term": "Yellow Book (FIDIC)",
+    "definition": "Plant & Design-Build contract form.",
+    "category": "Contracts",
+    "aliases": [
+      "FIDIC",
+      "Yellow Book"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "yield-protection-system",
+    "term": "Yield Protection System",
+    "definition": "Railway track circuit safety mechanism.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "yield-strength",
+    "term": "Yield Strength",
+    "definition": "Stress at which material begins to deform plastically.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "z-clauses-nec",
+    "term": "Z clauses (NEC)",
+    "definition": "Contract-specific amendments to standard form.",
+    "category": "Contracts",
+    "aliases": [
+      "NEC",
+      "Z clauses"
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "zero-carbon-ready",
+    "term": "Zero Carbon Ready",
+    "definition": "Future-proofed low energy home standard.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "zinc-titanium-alloy",
+    "term": "Zinc Titanium Alloy",
+    "definition": "Durable roofing and cladding material.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "zipper-lane",
+    "term": "Zipper Lane",
+    "definition": "Temporary railway closure for maintenance works.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "zonal-isolation",
+    "term": "Zonal Isolation",
+    "definition": "Wellbore sealing technique in oil/gas.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "zonal-pricing",
+    "term": "Zonal Pricing",
+    "definition": "Location-based material cost variations.",
+    "category": "Commercial",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "zone-billing",
+    "term": "Zone Billing",
+    "definition": "Dividing site into sections for phased invoicing.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "zoning",
+    "term": "Zoning",
+    "definition": "Division of building spaces for different uses.",
+    "category": "Construction",
+    "aliases": [],
+    "relatedTerms": []
+  },
+  {
+    "id": "zoning-accountancy",
+    "term": "Zoning (Accountancy)",
+    "definition": "Cost allocation to specific project areas.",
+    "category": "Commercial",
+    "aliases": [
+      "Accountancy",
+      "Zoning"
+    ],
+    "relatedTerms": []
+  }
+]
